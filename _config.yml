@@ -1,7 +1,7 @@
 name: NTNC
 favicon: null
-layout_spectrum: 0.300426522269845
-typography_spectrum: 0.6262647069524974
+layout_spectrum: 0.30284
+typography_spectrum: 0.10604
 title: New Thought Northern Colorado
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#64557e'
+    - '#fffdff'
+    - '#b4afa9'
+    - '#d5813a'
   brandStrength: 0.5723253581672907
   lightness: 0.02084410423412919
   saturation: 0.032962929690256715
