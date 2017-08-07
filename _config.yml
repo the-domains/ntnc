@@ -1,29 +1,100 @@
-name: NTNC
-favicon: null
-layout_spectrum: 0.7417
-typography_spectrum: 0.65402
-title: New Thought Northern Colorado
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.6834312778267788
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  brandStrength: 0.38039686680550105
+  lightness: 0.7863259359979357
+  saturation: 0.184872157049393
+  rhythmicContrast: 0.15320564317378665
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#64557e'
-    - '#fffdff'
-    - '#b4afa9'
-    - '#d5813a'
-  brandStrength: 0.5723253581672907
-  lightness: 0.02084410423412919
-  saturation: 0.032962929690256715
-  rhythmicContrast: 0.265346274478361
-purpose: []
+layout_spectrum: 0.02722383211210075
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: DR DENISE ELIZABETH HALL
+  email: DRDENISEHALL@GMAIL.COM
+  url: 'https://www.AgrihoodsGlobal.com.'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22949873-e8dc-4bec-b41e-e55a525faca2.png
+name: Green Pastures Agrihoods
+url: 'https://agrihoodsglobal.com/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Soil Secrets
+    id: af7e25fc-41e2-4d98-9163-eb375c565498
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64ce8cb4-4530-4ea7-9234-b4bd2dd5b312.png
+title: Green Pastures Agrihoods
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6ac417-dfbe-4957-ba32-8062ebec95cc.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6ac417-dfbe-4957-ba32-8062ebec95cc.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd692524-8212-48fd-96fe-115746b24856.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd692524-8212-48fd-96fe-115746b24856.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Honoring & Revering Mother Oceania-Earth
+purpose:
+  - type: contact
+    url: 'tel:9707141284'
+    label: Call 970.714.1284
+  - type: internal
+    label: ZeroWaste Landscaping
+    item: c21dd26f-79d4-4c12-8292-d195fa0cb5f9
