@@ -4,8 +4,8 @@ description: >-
   Green Pastures Agrihoods has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-08-10T01:18:53.457Z'
-datePublished: '2017-08-10T01:18:54.397Z'
+dateModified: '2017-08-10T01:19:27.102Z'
+datePublished: '2017-08-10T01:19:27.681Z'
 title: 'Green Pastures Agrihoods features Soil Secrets '
 author: []
 publisher: {}
@@ -110,16 +110,16 @@ These benevolent fungi partner with many plants and trees. Their capability invo
 
 Soil Secrets provides the highest quality and concentration of mycorrhizal soil treatments available on the market! EndoMaxima(r), White Lightning(r), and MycoMaxima(r) offer high quality, efficiency, effectiveness, and excellence with professional concentrated products. All products are available in large quantities.
 
-Mycorrhizal Fungal Benefits of Soil Secrets:
+**Mycorrhizal Fungal Benefits of Soil Secrets:**
 
-* Builds topsoil for sequestering of essential carbon!
-* Increases crop yields!
-* Improves drought tolerance &amp; sustainability!
-* Improves mineral nutrient uptake!
-* Improves food nutrient density!
-* Protects roots from damaging nematodes!
-* Improves ability to tolerate environmental stressors!
-* Increases profitability!
+* _Builds topsoil for sequestering of essential carbon!_
+* _Increases crop yields!_
+* _Improves drought tolerance &amp; sustainability!_
+* _Improves mineral nutrient uptake!_
+* _Improves food nutrient density!_
+* _Protects roots from damaging nematodes!_
+* _Improves ability to tolerate environmental stressors!_
+* _Increases profitability!_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af03cb4f-9f4e-4e3f-ae9c-b8fdca7f2ee9.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5713e4055dc89064ca436d38eb5be6fa91c034.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8469a5-f1a1-4df5-838e-bc0b3a87a4e0.jpg)
