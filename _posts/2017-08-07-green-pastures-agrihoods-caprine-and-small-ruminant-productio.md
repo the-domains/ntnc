@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures Agrihoods will focus primarily on meat, then dairy goat
   production for self-reliance.
-dateModified: '2017-08-10T01:31:58.467Z'
-datePublished: '2017-08-10T01:31:59.513Z'
+dateModified: '2017-08-10T01:41:14.686Z'
+datePublished: '2017-08-10T01:41:16.886Z'
 title: 'Green Pastures Agrihoods: Caprine & Small Ruminant Production'
 author: []
 publisher: {}
