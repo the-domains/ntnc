@@ -5,8 +5,8 @@ description: >-
   Industrial hemp holds infinite applications. The primary purpose for hemp
   production, for Green Pastures Agrihoods, is for intentional and sustainable
   construction.
-dateModified: '2017-08-10T01:26:30.514Z'
-datePublished: '2017-08-10T01:26:31.276Z'
+dateModified: '2017-08-10T01:41:14.686Z'
+datePublished: '2017-08-10T01:41:16.887Z'
 title: >-
   Green Pastures Agrihoods: Industrial Hemp & Intentional Construction
   Development
