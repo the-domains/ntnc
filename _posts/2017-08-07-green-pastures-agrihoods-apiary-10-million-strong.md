@@ -4,8 +4,8 @@ description: >-
   Green Pastures Agrihoods holds an apiary of 10 million individuals! Agrihoods
   and beekeeping are great partners! Thus, creating a bee-friendly environment
   is a priority.
-dateModified: '2017-08-10T01:33:07.184Z'
-datePublished: '2017-08-10T01:33:07.626Z'
+dateModified: '2017-08-10T01:41:14.686Z'
+datePublished: '2017-08-10T01:41:16.876Z'
 title: 'Green Pastures Agrihoods: Apiary - 10 million strong!'
 author: []
 publisher: {}
