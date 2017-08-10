@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Green Pastures Agrihoods holds benevolent intentionality surrounding the
   decision to incorporate lavender as a specialty crop.
-dateModified: '2017-08-07T02:16:58.444Z'
-datePublished: '2017-08-10T01:36:12.336Z'
+dateModified: '2017-08-10T01:41:14.686Z'
+datePublished: '2017-08-10T01:41:16.883Z'
 title: 'Green Pastures Agrihoods: Specialty Crop - Lavender'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-10-green-pastures-agrihoods-specialty-crop-lavender.md
 starred: false
 datePublishedOriginal: '2017-08-10T01:36:12.336Z'
-sourcePath: _posts/2017-08-10-green-pastures-agrihoods-specialty-crop-lavender.md
 url: green-pastures-agrihoods-specialty-crop-lavender/index.html
 _type: Article
 
