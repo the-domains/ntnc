@@ -5,8 +5,8 @@ description: >-
   especially for medicinal plants (e.g. ‘aquapothecary’). Aquaponics food
   production systems will become the predominate form of self-reliance in the
   ‘agrihood prototype model’.
-dateModified: '2017-08-10T01:29:53.774Z'
-datePublished: '2017-08-10T01:29:54.568Z'
+dateModified: '2017-08-10T01:41:14.686Z'
+datePublished: '2017-08-10T01:41:16.575Z'
 title: 'Green Pastures Agrihoods: Aquaponics'
 author: []
 publisher: {}
