@@ -4,9 +4,9 @@ description: >-
   Green Pastures Agrihoods has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-08-07T02:41:07.944Z'
-datePublished: '2017-08-07T02:41:08.603Z'
-title: Green Pastures Agrihoods features Soil Secrets premium soil treatments
+dateModified: '2017-08-10T01:17:22.877Z'
+datePublished: '2017-08-10T01:17:23.717Z'
+title: 'Green Pastures Agrihoods features Soil Secrets '
 author: []
 publisher: {}
 via: {}
@@ -19,8 +19,7 @@ url: green-pastures-agrihoods-features-soil-secrets-premium-soil/index.html
 _type: Article
 
 ---
-# _**Green Pastures Agrihoods features Soil Secrets premium soil treatments**_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9495a87985539a085863b2ab0cbbb223c6ca1663.png)
+# _**Green Pastures Agrihoods features Soil Secrets **_
 
 _**Green Pastures Agrihoods**_ has partnered with **Soil Secrets LLC** to offer a 'premium professional soil treatment inocula' line of products designed to stimulate healthy soils!
 
@@ -47,13 +46,12 @@ Further, there is an intricate level of bioactivity with transfers of energy, be
 
 Soil Secrets taps into the SFW:
 
-* Decreases water usage!
-* Supports drought resistance!
-* Increases plant health
-* Increases crop production yields
-* Optimized "Soil Food Web"
-* Long term decrease in costs
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b20ebb4b-3596-4cc4-931f-a79d9b42b5d7.bmp)
+* _Decreases water usage!_
+* _Supports drought resistance!_
+* _Increases plant health_
+* _Increases crop production yields_
+* _Optimized "Soil Food Web"_
+* _Long term decrease in costs_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b171c28-b78c-4de3-97af-9d22292eb451.jpg)
 
 ## Applied Science of Humic Acids: TerraPro(r)
