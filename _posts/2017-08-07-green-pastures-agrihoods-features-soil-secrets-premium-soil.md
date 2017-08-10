@@ -4,8 +4,8 @@ description: >-
   Green Pastures Agrihoods has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-08-10T01:19:27.102Z'
-datePublished: '2017-08-10T01:19:27.681Z'
+dateModified: '2017-08-10T01:20:38.831Z'
+datePublished: '2017-08-10T01:20:39.887Z'
 title: 'Green Pastures Agrihoods features Soil Secrets '
 author: []
 publisher: {}
