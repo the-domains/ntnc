@@ -4,8 +4,8 @@ description: >-
   Green Pastures Agrihoods has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-08-10T01:18:08.149Z'
-datePublished: '2017-08-10T01:18:09.151Z'
+dateModified: '2017-08-10T01:18:53.457Z'
+datePublished: '2017-08-10T01:18:54.397Z'
 title: 'Green Pastures Agrihoods features Soil Secrets '
 author: []
 publisher: {}
@@ -85,14 +85,13 @@ Green Pastures Agrihoods appreciates Soil Secrets' ability to authentically hono
 * _Bio-remediation_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40b13eb3d54779fe9bca6727e5f7d8b66e153cb.jpg)
 
-Healthy Soil = Healthy Food = Healthy Beings
+### _**Healthy Soil = Healthy Food = Healthy Beings**_
 
 Green Pastures Agrihoods offers this simple equation to educate citizens as to the necessity of understanding and supporting the "soil food web"! It is with great joy for Green Pastures Agrihoods to feature Soil Secrets.
 
 This phenomenal premium product line realizes that the element of nitrogen is an essential ingredient of the "soil food web"! Soil microbes and plants live in a symbiotic relationship that requires nitrogen.
 
 Nitrogen is a building block of amino acids, and, amino acids are the building blocks of protein! Supplying the "soil food web" with easily accessible and quality protein nutrients, such as Protein Crumblies(r) that contain "essential amino acids", optimally nourishes the soil's ecosystem in our precious earth! With optimal nourishing comes optimal flourishing!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4216d020-e00e-47c6-a208-01f3d832f79e.jpg)
 
 ### TerraPro of Soil Secrets:
 
