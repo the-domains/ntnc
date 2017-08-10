@@ -4,8 +4,8 @@ description: >-
   Green Pastures Agrihoods has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-08-10T01:17:46.993Z'
-datePublished: '2017-08-10T01:17:47.668Z'
+dateModified: '2017-08-10T01:18:08.149Z'
+datePublished: '2017-08-10T01:18:09.151Z'
 title: 'Green Pastures Agrihoods features Soil Secrets '
 author: []
 publisher: {}
@@ -66,23 +66,23 @@ Green Pastures Agrihoods appreciates Soil Secrets' ability to authentically hono
 
 ### Soil Secrets Benefits:
 
-* Improves nutrient uptake!
-* Improves "SFW" structure &amp; root development!
-* Increases beneficial microbes!
-* Increases crop yield production!
-* Retains nourishment; holds water better!
-* Minimizes runoff & potential for drought!
-* Improves fertility!
-* Remediates damage by crude oil, salt; mine tailing by removing heavy metals from water/soil!
+* _Improves nutrient uptake!_
+* _Improves "SFW" structure &amp; root development!_
+* _Increases beneficial microbes!_
+* _Increases crop yield production!_
+* _Retains nourishment; holds water better!_
+* _Minimizes runoff & potential for drought!_
+* _Improves fertility!_
+* _Remediates damage by crude oil, salt; mine tailing by removing heavy metals from water/soil!_
 
 ### Applied science for society with Soil Secrets:
 
-* Agri-Enterprise
-* Landscapes
-* Construction
-* Parks & Recreation
-* Land Rehabilitation & Restoration
-* Bio-remediation
+* _Agri-Enterprises_
+* _Landscapes_
+* _Construction_
+* _Parks & Recreation_
+* _Land Rehabilitation & Restoration_
+* _Bio-remediation_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40b13eb3d54779fe9bca6727e5f7d8b66e153cb.jpg)
 
 Healthy Soil = Healthy Food = Healthy Beings
