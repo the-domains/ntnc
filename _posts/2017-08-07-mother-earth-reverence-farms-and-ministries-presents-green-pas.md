@@ -6,8 +6,8 @@ description: >-
   village as “Agrihoods”.
 author:
   - name: Bill Bartlett
-datePublished: '2017-08-10T00:26:03.190Z'
-dateModified: '2017-08-10T00:26:02.786Z'
+datePublished: '2017-08-10T01:41:16.718Z'
+dateModified: '2017-08-10T01:41:14.686Z'
 title: Mother Earth Reverence Farms & Ministries presents Green Pastures Agrihoods!
 publisher:
   name: Womanist Productions
