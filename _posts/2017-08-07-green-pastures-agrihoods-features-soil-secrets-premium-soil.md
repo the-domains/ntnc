@@ -4,8 +4,8 @@ description: >-
   Green Pastures Agrihoods has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-08-10T01:17:22.877Z'
-datePublished: '2017-08-10T01:17:23.717Z'
+dateModified: '2017-08-10T01:17:46.993Z'
+datePublished: '2017-08-10T01:17:47.668Z'
 title: 'Green Pastures Agrihoods features Soil Secrets '
 author: []
 publisher: {}
@@ -59,7 +59,6 @@ Soil Secrets taps into the SFW:
 Green Pastures Agrihoods, with the support of Soil Secrets, uses sound science to support healthy soils. Some of this sound science includes humic acids. Humic acids are essential to the best quality, healthy, rich, and most productive soils in the world!
 
 Humic acids offer the capacity to actually build and condition the soil's ecosystem, leading to an appearance of a very dark fertile quality. Humic acids are nature's best chelators of 'plant nutrient bioavailability', and are "...essential for a healthy and productive soil"(J. Chemical Education, 12/2001).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe48a62a-d303-4ccc-b688-2a022a82c40f.jpg)
 
 With 'humic acid enrichment', microbes are nurtured within the "soil food web" (SFW) creating an environment favorable for maximized root growth (root zone). Therefore, essential water and trace elements have increased bioavailability within the SFW. Plants receive improved nutrition and overall health. Healthy plants are more "nutrient dense", when filled with vitamins and minerals.
 
