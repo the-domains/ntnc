@@ -6,8 +6,8 @@ description: >-
   village as “Agrihoods”.
 author:
   - name: Bill Bartlett
-datePublished: '2017-08-10T00:13:32.274Z'
-dateModified: '2017-08-10T00:13:31.746Z'
+datePublished: '2017-08-10T00:19:52.094Z'
+dateModified: '2017-08-10T00:19:51.486Z'
 title: Mother Earth Reverence Farms & Ministries presents Green Pastures Agrihoods!
 publisher:
   name: Womanist Productions
@@ -30,14 +30,11 @@ Midwifery translates from indigenous ancient wisdom, honoring of the planet -- M
 
 **MERF's** sacred cause is to align with Mother Oceania Earth's beings-human, animal, plant, elements in benevolent vibration with 'All That Is' divine-sacred-holy. Agrihoods are 'agriculturally-based', self-reliant neighborhoods (e.g. villages, communities, municipalities).
 
-**Calling **(Vision): **MERF **is in sacred service to midwife healing and
-energetic balance with Mother Earth & all her relational beings to
-revolutionarily and 'ohmnibenevolently' transform the 21st century global village! ****
+**Calling **(Vision): **MERF **is in sacred service to midwife healing and energetic balance with Mother Earth & all her relational beings to revolutionarily and 'ohmnibenevolently' transform the 21st century global village!
 
-**Cause **(Mission): **MERF **honors intentional, 'authentic servant leadership' in modeling
-earth-friendly, transformative, & simple best practices in agri-stewardship
-& sustainable living to revolutionarily transform the 21st century
-global village! 
+**Cause **(Mission): **MERF **honors intentional, 'authentic servant leadership' in modeling earth-friendly, transformative, & simple best practices in agri-stewardship & sustainable living to revolutionarily transform the 21st century global village!
 
-**Destiny **(Purpose): **MERF **models harmonic balance with a local geographical focus to
-encourage, companion, and champion 'agrihoods'!
+**Destiny **(Purpose): **MERF **models harmonic balance with a local geographical focus to encourage, companion, and champion 'agrihoods'!
+
+**MERF **continues the legacy of Dr. George Washington Carver who revolutionized American agriculture in the 20th century.
+Carver's revolutionary approach is a context for sustainability and self-reliance.
