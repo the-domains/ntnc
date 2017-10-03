@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-03T22:57:45.127Z'
-datePublished: '2017-10-03T22:57:45.726Z'
+dateModified: '2017-10-03T22:58:34.153Z'
+datePublished: '2017-10-03T22:58:34.696Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -77,7 +77,7 @@ _**Green Pastures AgriVillages**_ appreciates Soil Secrets' ability to authentic
 * _Improves fertility!_
 * _Remediates damage by crude oil, salt; mine tailing by removing heavy metals from water/soil!_
 
-### Applied science for society with Soil Secrets:
+### Applied science for Green Pastures AgriVillages with Soil Secrets:
 
 * _Agri-Enterprises_
 * _Landscapes_
@@ -89,7 +89,7 @@ _**Green Pastures AgriVillages**_ appreciates Soil Secrets' ability to authentic
 
 ### _**Healthy Soil = Healthy Food = Healthy Beings**_
 
-Green Pastures Agrihoods offers this simple equation to educate citizens as to the necessity of understanding and supporting the "soil food web"! It is with great joy for Green Pastures Agrihoods to feature Soil Secrets.
+_**Green Pastures AgriVillages**_ offers this simple equation to educate citizens as to the necessity of understanding and supporting the "soil food web"! It is with great joy for Green Pastures Agrihoods to feature Soil Secrets.
 
 This phenomenal premium product line realizes that the element of nitrogen is an essential ingredient of the "soil food web"! Soil microbes and plants live in a symbiotic relationship that requires nitrogen.
 
