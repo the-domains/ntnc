@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Green Pastures Agrihoods holds benevolent intentionality surrounding the
+  Green Pastures AgriVillages holds benevolent intentionality surrounding the
   decision to incorporate lavender as a specialty crop.
-dateModified: '2017-08-10T01:41:14.686Z'
-datePublished: '2017-08-10T01:41:16.883Z'
-title: 'Green Pastures Agrihoods: Specialty Crop - Lavender'
+dateModified: '2017-10-03T23:50:14.592Z'
+datePublished: '2017-10-03T23:50:15.281Z'
+title: 'Green Pastures AgriVillages: Specialty Crop - Lavender'
 author: []
 publisher: {}
 via: {}
@@ -17,9 +17,9 @@ url: green-pastures-agrihoods-specialty-crop-lavender/index.html
 _type: Article
 
 ---
-# **Green Pastures Agrihoods: Specialty Crop - Lavender**
+# **Green Pastures AgriVillages: Specialty Crop - Lavender**
 
-Green Pastures Agrihoods holds benevolent intentionality surrounding the decision to incorporate lavender as a specialty crop.
+_**Green Pastures AgriVillages**_ holds benevolent intentionality surrounding the decision to incorporate lavender as a specialty crop.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5144667-3118-40be-8815-256d016456fa.jpg)
 
 Lavender is a small, aromatic shrub used in the fragrance, specialty food, and alter-native medicine industries. Although family farmers may find large-scale extraction of lavender's valuable oil too expensive and laborious, small-scale lavender production is feasible for some farmers using alternative marketing strategies. Entertainment farming has been a very successful form of alternative marketing for lavender, especially as a focus for annual festivals and product sales.
