@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures AgriVillages provides a local community service for ‘ZeroWast
   Landscaping & Compost’.
-dateModified: '2017-10-03T23:25:58.069Z'
-datePublished: '2017-10-03T23:25:58.837Z'
+dateModified: '2017-10-03T23:38:47.238Z'
+datePublished: '2017-10-03T23:38:47.936Z'
 title: Green Pastures AgriVillages - ZeroWaste Landscaping & Compost
 author: []
 publisher: {}
@@ -30,7 +30,7 @@ ZeroWaste Landscaping & Compost serves homeowners and local business in creating
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5dc71d8-eac2-4c43-b2d3-6247f3790015.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d74a7c5cf7532954c2d820c5fad3c90ab2e1c4c.jpg)
 ![Fresh fruits & vegetables headed to the landfill](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f94409-146d-4fd1-9fcd-848161cab045.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b32590-c286-4186-b1c6-9a7738b9d94d.jpg)
+![When was the last time you visited a landfill near you?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b32590-c286-4186-b1c6-9a7738b9d94d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4f5734f-5191-44f3-93d9-381cedf0d15b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5692a4785f44816e34c318e09be9f2b76cbc2032.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e896ea1616e95f80984cb649bd5231ab8c57d80d.jpg)
