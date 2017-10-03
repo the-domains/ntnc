@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures AgriVillages holds benevolent intentionality surrounding the
   decision to incorporate lavender as a specialty crop.
-dateModified: '2017-10-03T23:50:14.592Z'
-datePublished: '2017-10-03T23:50:15.281Z'
+dateModified: '2017-10-03T23:50:42.562Z'
+datePublished: '2017-10-03T23:50:43.046Z'
 title: 'Green Pastures AgriVillages: Specialty Crop - Lavender'
 author: []
 publisher: {}
