@@ -1,12 +1,12 @@
 ---
 inFeed: true
 description: >-
-  Green Pastures Agrihoods has partnered with Soil Secrets LLC to offer a
+  Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-08-10T01:41:14.686Z'
-datePublished: '2017-08-10T01:41:16.884Z'
-title: Green Pastures Agrihoods features Soil Secrets
+dateModified: '2017-10-03T22:57:45.127Z'
+datePublished: '2017-10-03T22:57:45.726Z'
+title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
 via: {}
@@ -19,11 +19,11 @@ url: green-pastures-agrihoods-features-soil-secrets-premium-soil/index.html
 _type: Article
 
 ---
-<button data-role="cta" style="">SOIL SECRETS</button>
+[SOIL SECRETS LLC][0]
 
-# _**Green Pastures Agrihoods features Soil Secrets**_
+# _**Green Pastures AgriVillages features Soil Secrets LLC products!**_
 
-_**Green Pastures Agrihoods**_ has partnered with **Soil Secrets LLC** to offer a 'premium professional soil treatment inocula' line of products designed to stimulate healthy soils!
+_**Green Pastures AgriVillages**_ has partnered with **Soil Secrets LLC** to offer a 'premium professional soil treatment inocula' line of products designed to stimulate healthy soils!
 
 There are essential biochemical processes necessary for optimal plant nutrition. This premium product line meets the benchmark of the _USDA National Organic Program_ (NOP), and are available for use on organic certified farms.
 
@@ -40,7 +40,7 @@ Benefits of Soil Secrets:
 
 ## **"Soil Food Web"**
 
-Green Pastures Agrihoods believes in the Soil Secrets premium product line. This amazing product line reveres the "soil food web", network of ecosystems, which provides nutrient distribution for the multiple feeding levels found within Mother Earth -- the "Soil Food Web"(SFW)!
+_Green Pastures AgriVillage_s believes in the Soil Secrets premium product line. This amazing product line reveres the "soil food web", network of ecosystems, which provides nutrient distribution for the multiple feeding levels found within Mother Earth -- the "Soil Food Web"(SFW)!
 
 The SFW refers to an earth-based ecosystem ("community of organisms") where these biological beings live most or part of their lives in the soil (e.g. bioactivity). This is all happening below ground, containing diverse trophic or feeding systems. SFW holds symbiotic relationships with the environment, including plants and animals.
 
@@ -58,13 +58,13 @@ Soil Secrets taps into the SFW:
 
 ## Applied Science of Humic Acids: TerraPro(r)
 
-Green Pastures Agrihoods, with the support of Soil Secrets, uses sound science to support healthy soils. Some of this sound science includes humic acids. Humic acids are essential to the best quality, healthy, rich, and most productive soils in the world!
+_**Green Pastures AgriVillages**_, with the support of Soil Secrets, uses sound science to support healthy soils. Some of this sound science includes humic acids. Humic acids are essential to the best quality, healthy, rich, and most productive soils in the world!
 
 Humic acids offer the capacity to actually build and condition the soil's ecosystem, leading to an appearance of a very dark fertile quality. Humic acids are nature's best chelators of 'plant nutrient bioavailability', and are "...essential for a healthy and productive soil"(J. Chemical Education, 12/2001).
 
 With 'humic acid enrichment', microbes are nurtured within the "soil food web" (SFW) creating an environment favorable for maximized root growth (root zone). Therefore, essential water and trace elements have increased bioavailability within the SFW. Plants receive improved nutrition and overall health. Healthy plants are more "nutrient dense", when filled with vitamins and minerals.
 
-Green Pastures Agrihoods appreciates Soil Secrets' ability to authentically honor the essential element of carbon, which is contained within soils, as humic acids. Humic acids have supramolecular capability for effectiveness in treatment for land remediation. Their ability for land remediation can counter toxins, corrosive materials, and even salty environments. This furtherimproves the SFW!
+_**Green Pastures AgriVillages**_ appreciates Soil Secrets' ability to authentically honor the essential element of carbon, which is contained within soils, as humic acids. Humic acids have supramolecular capability for effectiveness in treatment for land remediation. Their ability for land remediation can counter toxins, corrosive materials, and even salty environments. This furtherimproves the SFW!
 
 ### Soil Secrets Benefits:
 
@@ -128,3 +128,5 @@ Soil Secrets provides the highest quality and concentration of mycorrhizal soil 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f6d2e4-fa08-4067-a203-f08889bfbb0d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f341dc0-b26a-404e-a7ee-580796f356f1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70856763-d95b-4a9a-b19f-71da27c31a1d.jpg)
+
+[0]: https://soilsecrets.com/
