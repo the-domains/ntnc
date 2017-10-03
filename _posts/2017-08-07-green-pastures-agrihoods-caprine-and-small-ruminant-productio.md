@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures AgriVillages will focus primarily on meat, then dairy goat
   production for self-reliance.
-dateModified: '2017-10-03T23:44:21.603Z'
-datePublished: '2017-10-03T23:44:22.490Z'
+dateModified: '2017-10-03T23:46:18.649Z'
+datePublished: '2017-10-03T23:46:19.021Z'
 title: 'Green Pastures AgriVillages: Caprine & Small Ruminant Production'
 author: []
 publisher: {}
@@ -45,4 +45,4 @@ The choice for goat production is completely intentional. It is possible to crea
 
 Chevron or 'goat meat' is the mostly consumed meat product in the world!
 
-**Green Pastures Agrihoods** promotes and supports the implementation of caprine production. Contact Dr. Hall for caprine herd health consultation.
+_**Green Pastures AgriVillages**_ promotes and supports the implementation of caprine production. Contact Dr. Hall for caprine herd health consultation.
