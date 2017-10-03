@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Green Pastures Agrihoods will focus primarily on meat, then dairy goat
+  Green Pastures AgriVillages will focus primarily on meat, then dairy goat
   production for self-reliance.
-dateModified: '2017-08-10T01:41:14.686Z'
-datePublished: '2017-08-10T01:41:16.886Z'
-title: 'Green Pastures Agrihoods: Caprine & Small Ruminant Production'
+dateModified: '2017-10-03T23:43:00.111Z'
+datePublished: '2017-10-03T23:43:00.998Z'
+title: 'Green Pastures AgriVillages: Caprine & Small Ruminant Production'
 author: []
 publisher: {}
 via: {}
@@ -20,12 +20,12 @@ _type: Article
 ---
 <button data-role="cta" style="">Caprine Production</button>
 
-# _**Green Pastures Agrihoods: Caprine & Small Ruminant Production**_
+# _**Green Pastures AgriVillages: Caprine & Small Ruminant Production**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9196fe1-3559-4701-bbbf-8e4f5b035a0e.jpg)
 
 ## Caprine Meat Production: Chevron
 
-**Green Pastures Agrihoods** will focus primarily on meat, then dairy goat production for self-reliance.
+_**Green Pastures AgriVillages**_ will focus primarily on meat, then dairy goat production for self-reliance.
 
 Caprine production offers three options:
 
