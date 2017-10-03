@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures AgriVillages provides a local community service for ‘ZeroWast
   Landscaping & Compost’.
-dateModified: '2017-10-03T23:00:37.938Z'
-datePublished: '2017-10-03T23:00:38.358Z'
+dateModified: '2017-10-03T23:01:28.786Z'
+datePublished: '2017-10-03T23:01:29.545Z'
 title: Green Pastures AgriVillages - ZeroWaste Landscaping & Compost
 author: []
 publisher: {}
@@ -34,6 +34,5 @@ ZeroWaste Landscaping & Compost serves homeowners and local business in creating
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4f5734f-5191-44f3-93d9-381cedf0d15b.jpg)
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a6497576d9a9fa1e440426c0c9a3348a/croprotate.jpg?cropheight=335&cropwidth=614&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2db26ee2-e2ec-487e-a0c3-0842e607d43b.jpg&x=12&y=12)
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9cc9c2101e02ad822f000f5e5ce46ef/croprotate.jpg?cropheight=674&cropwidth=1160&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F09ff739f-c465-4462-b053-e81509e34556.jpg&x=17&y=16)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc19d0e-e2dc-409b-8d72-fa0ce9c5c344.jpg)
 
 This benevolent company seeks local retailers and municipalities to recycle food waste, then provide composting it into natural, organic and sustainable garden soils.
