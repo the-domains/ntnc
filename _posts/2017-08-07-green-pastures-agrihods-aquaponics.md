@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  Green Pastures Agrihoods embraces the aquaponics food production system,
+  Green Pastures AgriVillages embraces the aquaponics food production system,
   especially for medicinal plants (e.g. ‘aquapothecary’). Aquaponics food
   production systems will become the predominate form of self-reliance in the
   ‘agrihood prototype model’.
-dateModified: '2017-08-10T01:41:14.686Z'
-datePublished: '2017-08-10T01:41:16.575Z'
-title: 'Green Pastures Agrihoods: Aquaponics'
+dateModified: '2017-10-03T23:41:39.729Z'
+datePublished: '2017-10-03T23:41:40.414Z'
+title: 'Green Pastures AgriVillages: Aquaponics'
 author: []
 publisher: {}
 via: {}
@@ -19,10 +19,10 @@ _type: Blurb
 ---
 <button data-role="cta" style="">AQUAPONICS</button>
 
-# _**Green Pastures Agrihoods: Aquaponics**_
+# _**Green Pastures AgriVillages: Aquaponics**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/022c92fe-ec46-4932-8a4f-b4403c0eb2f0.jpg)
 
-**Green Pastures Agrihoods** embraces the aquaponics food production system, especially for medicinal plants (e.g. 'aquapothecary'). Aquaponics food production systems will become the predominate form of self-reliance in the 'agrihood prototype model'.
+_**Green Pastures AgriVillages**_ embraces the aquaponics food production system, especially for medicinal plants (e.g. 'aquapothecary'). Aquaponics food production systems will become the predominate form of self-reliance in the 'agrihood prototype model'.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/add62ef1-2a76-4065-8779-eb7185808152.jpg)
 
 ## Aquaculture & Aquaponics
