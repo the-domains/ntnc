@@ -5,8 +5,8 @@ description: >-
   Industrial hemp holds infinite applications. The primary purpose for hemp
   production, for Green Pastures AgriVillages, is for intentional and
   sustainable construction.
-dateModified: '2017-10-03T23:52:47.502Z'
-datePublished: '2017-10-03T23:52:48.205Z'
+dateModified: '2017-10-03T23:58:48.383Z'
+datePublished: '2017-10-03T23:58:49.172Z'
 title: >-
   Green Pastures AgriVillages: Industrial Hemp & Intentional Construction
   Development
@@ -31,19 +31,19 @@ Intentional communities using hemp construction is the creative and necessary in
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec664060-44fc-489d-bcc1-a674f6fc9ee6.jpg)
 
 "Hemp includes all varieties of the Cannabis genus that contain negligible amounts of THC (a component of the cannabis plant that can be intoxicating when heated)."\[1, _Hemp Bound_ by Doug Fine, p. xix\] THC is the acronym for tetrahydrocannabidiol, and is the psychoactive component for recreational use of this plant. Hemp is synonymous with "industrial cannabis". \[2, _Hemp Bound_ by Doug Fine, p. xix\]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/874b1c25-3799-470e-b0a6-4768dc8551fa.jpg)
+![Industrial hemp being harvested, by hand](https://the-grid-user-content.s3-us-west-2.amazonaws.com/874b1c25-3799-470e-b0a6-4768dc8551fa.jpg)
 
 "Cannabis is a dioecious plant (there are males and females), and branches are covered with hand-like leaf fans."\[3, _Hemp Bound_ by Doug Fine, p. xix\] "Originated in Central Asia, hemp has a four to six month growing cycle and has been successfully cultivated on every continent except Antarctica." \[4, _Hemp Bound_ by Doug Fine, p. xix-xxii\]
 
 "Mature plants range from two to twelve", or more feet. \[5, _Hemp Bound_ by Doug Fine, p. xxii\]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0ddec2b-dd0f-4c39-9009-4896f10a6187.jpg)
+![Showing the revolutionary benefits with hemp as a construction material](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0ddec2b-dd0f-4c39-9009-4896f10a6187.jpg)
 
 * A hemp crop can be grown without the use of herbicides or insecticides.
 * Hemp produces up to four tonnes of material per acre per year.
 * It is especially suited to organic sustainable agriculture.
 * Hemp is categorized as a bast fibre crop.
 * It has a stem consisting of an outer skin containing long strong fibres surrounding a hollow wood core.This woody core is of a very open sponge like structure. (HempBuilding.com)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45700143-d98e-4451-817a-75ff1eecfd12.jpg)
+![The cross-sectional anatomy of a hemp stalk](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45700143-d98e-4451-817a-75ff1eecfd12.jpg)
 
 * After processing the stems, two materials are produced; hurds and fibres.
 * Both hurds and fibres have properties that make them useful in building construction. (HempBuilding.com)
