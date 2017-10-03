@@ -43,7 +43,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64ce8cb4-4530-4ea7-9234-b4bd2dd5b312.png
-title: Green Pastures Agrihoods
+title: Green Pastures AgriVillages
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
