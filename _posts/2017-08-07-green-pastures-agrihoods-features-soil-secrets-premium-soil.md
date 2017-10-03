@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-03T22:58:34.153Z'
-datePublished: '2017-10-03T22:58:34.696Z'
+dateModified: '2017-10-03T22:59:20.340Z'
+datePublished: '2017-10-03T22:59:20.807Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -106,7 +106,7 @@ Nitrogen is a building block of amino acids, and, amino acids are the building b
 
 ## _**Mycorrhizal Products**_
 
-Green Pastures Agrihoods realizes the significance of mycorrhizal fungi for optimal and overall healthy soils! Mycorrhizal species of fungi are beneficial and essential to healthy soil components, such as the "soil food web". "Myco" refers to "mushroom", and "rhizal" refers to "related to roots".
+_**Green Pastures AgriVillages**_ realizes the significance of mycorrhizal fungi for optimal and overall healthy soils! Mycorrhizal species of fungi are beneficial and essential to healthy soil components, such as the "soil food web". "Myco" refers to "mushroom", and "rhizal" refers to "related to roots".
 
 These benevolent fungi partner with many plants and trees. Their capability involves forming "exterior sheaths" symbiotically surrounding the root system for partnered plants (ectomycorrhizae). In addition, "Mycorrhizal fungi" seek the interior of "root cells" of "host plants" (endomycorrhizae).
 
