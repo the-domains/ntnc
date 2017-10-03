@@ -5,8 +5,8 @@ description: >-
   especially for medicinal plants (e.g. ‘aquapothecary’). Aquaponics food
   production systems will become the predominate form of self-reliance in the
   ‘agrivillage prototype model’.
-dateModified: '2017-10-03T23:41:55.176Z'
-datePublished: '2017-10-03T23:41:55.760Z'
+dateModified: '2017-10-03T23:42:16.517Z'
+datePublished: '2017-10-03T23:42:17.160Z'
 title: 'Green Pastures AgriVillages: Aquaponics'
 author: []
 publisher: {}
@@ -31,6 +31,6 @@ Aquaculture refers to fish production. Some aquaculture are used to grow fish fo
 
 Aquaponics refers to food production systems utilizing various species of fish for healthy protein, while concurrently cultivating green plants for human consumption.
 
-Green Pastures Agrihoods have intentional chosen aquaponics productions systems using the decorative koi fish species, yellow perch (_Perca flavescens_), and tilapia (_Oreochromis niloticus_) species.
+_**Green Pastures AgriVillages**_ have intentional chosen aquaponics productions systems using the decorative koi fish species, yellow perch (_Perca flavescens_), and tilapia (_Oreochromis niloticus_) species.
 
 Aquaponics using the koi fish species (_Cyprinus rubrofuscus_) are for decorative ponds and utter enjoyment in celebrating their beauty. With the use of this species, water plants can be grown. Otherwise, good ol fashion heirloom vegetables will be produced.
