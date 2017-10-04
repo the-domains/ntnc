@@ -5,8 +5,8 @@ description: >-
   Industrial hemp holds infinite applications. The primary purpose for hemp
   production, for Green Pastures AgriVillages, is for intentional and
   sustainable construction.
-dateModified: '2017-10-03T23:58:48.383Z'
-datePublished: '2017-10-03T23:58:49.172Z'
+dateModified: '2017-10-04T00:01:12.122Z'
+datePublished: '2017-10-04T00:01:12.676Z'
 title: >-
   Green Pastures AgriVillages: Industrial Hemp & Intentional Construction
   Development
@@ -47,7 +47,7 @@ Intentional communities using hemp construction is the creative and necessary in
 
 * After processing the stems, two materials are produced; hurds and fibres.
 * Both hurds and fibres have properties that make them useful in building construction. (HempBuilding.com)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb565bd7-ac93-4f24-ac99-e5678d03fe48.png)
+![Hemp is the strongest building material in the world!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb565bd7-ac93-4f24-ac99-e5678d03fe48.png)
 
 * Hemp hurds are mixed with a combination of lime products to produce a light weight, insulating, breathing material.
 * The mixture of lime to hurds varies with the type of construction application and prevailing climatic conditions. (HempBuilding.com)
@@ -56,7 +56,7 @@ Intentional communities using hemp construction is the creative and necessary in
 * This hempcrete is cast around a framework.
 * This is achieved by [tamping down][0] between shuttering, or it can be sprayed against a formwork (permanent or temporary).
 * Internally a variety of finishes are possible. In this example the framework has been left exposed and the hempcrete finished with a natural paint. (HempBuilding.com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0247618-d558-4621-9dae-d6b2232930de.jpg)
+![Dome home built with industrial hemp](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0247618-d558-4621-9dae-d6b2232930de.jpg)
 
 xternally the hempcrete is finished with a lime render which can be painted with breathable natural paints.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08310cba-f1b1-468b-9f96-784a922d56f4.jpg)
