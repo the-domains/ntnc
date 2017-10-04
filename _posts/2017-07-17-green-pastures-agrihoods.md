@@ -5,8 +5,8 @@ description: >-
   Industrial hemp holds infinite applications. The primary purpose for hemp
   production, for Green Pastures AgriVillages, is for intentional and
   sustainable construction.
-dateModified: '2017-10-04T00:01:12.122Z'
-datePublished: '2017-10-04T00:01:12.676Z'
+dateModified: '2017-10-04T00:01:44.363Z'
+datePublished: '2017-10-04T00:01:45.590Z'
 title: >-
   Green Pastures AgriVillages: Industrial Hemp & Intentional Construction
   Development
@@ -58,11 +58,9 @@ Intentional communities using hemp construction is the creative and necessary in
 * Internally a variety of finishes are possible. In this example the framework has been left exposed and the hempcrete finished with a natural paint. (HempBuilding.com
 ![Dome home built with industrial hemp](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0247618-d558-4621-9dae-d6b2232930de.jpg)
 
-xternally the hempcrete is finished with a lime render which can be painted with breathable natural paints.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08310cba-f1b1-468b-9f96-784a922d56f4.jpg)
+Externally the hempcrete is finished with a lime render, which can be painted with breathable natural paints.
 
 "Hempcrete in twelve inch thick sections has an R-value...of twenty (20\#)." \[1, _HempBound_ by Doug Fine, p,33-34\] Hemp insulation "takes less" energy, and will "keep a house heated to seventy degrees Fahrenheit (70 F/21 C)". \[2, _HempBound_ by Doug Fine, p,33-34\]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c69ba12e-f4a3-42d7-b68d-72b316176c2b.jpg)
 
 Hempcrete is "easy to apply on-site..., is caste around a" framework of support. \[3, HempBound by Doug Fine, p,33-34\]
 
