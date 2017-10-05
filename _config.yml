@@ -15,7 +15,7 @@ color:
 github: true
 opengraph:
   image: null
-  type: null
+  type: 'https://www.facebook.com/GreenPastureAgriVillages/'
   appId: null
 layout_spectrum: 0.02722383211210075
 analytics:
