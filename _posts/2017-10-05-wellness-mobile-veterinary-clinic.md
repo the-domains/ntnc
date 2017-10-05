@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 1) Ayuvedic Veterinary Medicine
-dateModified: '2017-10-05T15:32:35.807Z'
-datePublished: '2017-10-05T15:32:37.043Z'
+dateModified: '2017-10-05T15:38:50.708Z'
+datePublished: '2017-10-05T15:38:51.691Z'
 title: WELLNESS MOBILE VETERINARY CLINIC
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-10-05-wellness-mobile-veterinary-clinic.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-05T15:26:21.029Z'
-hasPage: true
 url: wellness-mobile-veterinary-clinic/index.html
 _type: Article
 
@@ -43,4 +43,10 @@ Standard Process holds a line of Veterinary Formulas that are vital to wholistic
 Muscle Response Testing is a technique which allows for clients to be a surrogate for their animals to survey the body in order to ask the 'physical body temple' what is needed and where from a nutritional standpoint.
 
 VETERINARY FORMULAS (tm) (Standard Process)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/549f87d8-52cc-4b3d-b880-1ac33a40a8f4.jpg)
+![
+
+1) Nutri-Nourishment  2) Acupuncture 3) Animal Chiropractic 4) Essential Oils
+5) Homeopathy 6) Light Therapy, Massage & Other Energy Healing Techniques
+(*Healing Touch * Reiki *BEMER) 7) Massage, Training, & Grooming
+
+](https://the-grid-user-content.s3-us-west-2.amazonaws.com/549f87d8-52cc-4b3d-b880-1ac33a40a8f4.jpg)
