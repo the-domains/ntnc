@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-05T23:53:07.655Z'
-datePublished: '2017-10-05T23:53:08.391Z'
+dateModified: '2017-10-05T23:56:35.194Z'
+datePublished: '2017-10-05T23:56:35.873Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -21,13 +21,25 @@ _type: Article
 ---
 [SOIL SECRETS LLC][0]
 
-# _**Green Pastures AgriVillages features Soil Secrets LLC products!**_
+## _**Green Pastures AgriVillages features Soil Secrets LLC products!**_
 
 _**Green Pastures AgriVillages**_ has partnered with **Soil Secrets LLC** to offer a 'premium professional soil treatment inocula' line of products designed to stimulate healthy soils!
 
 There are essential biochemical processes necessary for optimal plant nutrition. This premium product line meets the benchmark of the _USDA National Organic Program_ (NOP), and are available for use on organic certified farms.
 
 Urban gardens and lawns may safely access **Soil Secrets** products for optimal plant and sod health! Rest assured that these plant-derived, organic treatment essentials actually serve Mother Earth, her "soil food web", and any plants or crops grown!
+![Soil Secrets LLC develops products that instigate the natural biochemical process required for healthy soils and proper plant nutrition.
+
+Humates
+
+All Soil Secrets products meet the benchmark of the USDA National Organic Program, and with Certifier approval, can be used on Organic Certified farms. The products are also safe for use on home gardens and lawns, without the fear of damaging the environment or exposing our bodies to hazardous chemicals. Our products are used in the construction and maintenance of landscapes, golf courses, mine reclamation, highway re-vegetation and farming. Benefits of Soil Secrets products include:
+
+• Improved water drought tolerance of crops, sports  fields, etc.
+• Improvement of water storage in soils.
+• Greener more environmentally sound landscapes.
+• Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, and jump starts healthy mutualistic soil biology for plants.
+
+In addition, Soil Secrets science in Humic Acids is the best in the world, using a “Commercial Proprietary Information Contract” at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1581859a-3c69-4332-9ba2-8e9f1264c215.png)
 
 Benefits of Soil Secrets:
 
