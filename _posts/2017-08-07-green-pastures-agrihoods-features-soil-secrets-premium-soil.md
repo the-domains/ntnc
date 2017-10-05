@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-05T23:56:45.058Z'
-datePublished: '2017-10-05T23:56:45.878Z'
+dateModified: '2017-10-05T23:57:11.698Z'
+datePublished: '2017-10-05T23:57:12.234Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -41,7 +41,7 @@ All Soil Secrets products meet the benchmark of the USDA National Organic Progra
 
 In addition, Soil Secrets science in Humic Acids is the best in the world, using a “Commercial Proprietary Information Contract” at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids.](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4f9bc1cccee9868e99a790ed5b813c0f/croprotate.png?cropheight=1583&cropwidth=5311&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1581859a-3c69-4332-9ba2-8e9f1264c215.png&x=43&y=0)
 
-Benefits of Soil Secrets:
+### _**Benefits of Soil Secrets:**_
 
 * Improved water drought tolerance for crop production!
 * Improved water storage in soil!
