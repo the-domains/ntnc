@@ -6,9 +6,11 @@ description: >-
   village as “Agrihoods”.
 author:
   - name: Bill Bartlett
-datePublished: '2017-08-10T01:41:16.718Z'
-dateModified: '2017-08-10T01:41:14.686Z'
-title: Mother Earth Reverence Farms & Ministries presents Green Pastures Agrihoods!
+datePublished: '2017-10-05T16:25:07.374Z'
+dateModified: '2017-10-05T16:25:06.751Z'
+title: >-
+  Mother Earth Reverence Farms & Ministries presents Green Pastures
+  AgriVillages!
 publisher:
   name: Womanist Productions
 via: {}
@@ -21,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# _**Mother Earth Reverence Farms & Ministries presents Green Pastures Agrihoods!**_
+# _**Mother Earth Reverence Farms & Ministries presents Green Pastures AgriVillages!**_
 ![Honoring her continual rebirthing!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20d59fb2e0100e359d7bb09337bcfb0e983bb77a.jpg)
 
 **Mother Earth Reverence Farms & Ministries** (MERF) is a 'clearinghouse' midwifing, companioning, championing, and modeling a consortium of earth-friendly, 'accessible best practices' for the 21st century global village as "Agrihoods".
