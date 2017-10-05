@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: 1) Ayuvedic Veterinary Medicine
-dateModified: '2017-10-05T15:30:38.158Z'
-datePublished: '2017-10-05T15:30:38.774Z'
+dateModified: '2017-10-05T15:32:35.807Z'
+datePublished: '2017-10-05T15:32:37.043Z'
 title: WELLNESS MOBILE VETERINARY CLINIC
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: 'http://WellnessVeterinaryClinic.com'
 sourcePath: _posts/2017-10-05-wellness-mobile-veterinary-clinic.md
 starred: false
 datePublishedOriginal: '2017-10-05T15:26:21.029Z'
-_type: MediaObject
+hasPage: true
+url: wellness-mobile-veterinary-clinic/index.html
+_type: Article
 
 ---
 # _**WELLNESS MOBILE VETERINARY CLINIC**_
@@ -37,16 +38,9 @@ Traditional Chinese Veterinary Medicine (TCVM), although relatively new to the W
 
 3) _'Nutri-Nourishment' is minimally 90% of overall health and wellness! _
 
-Standard Process holds a line of Veterinary Formulas that are vital to wholistic veterinary medical practice. At this time in our collective evolution, both humans and animals
+Standard Process holds a line of Veterinary Formulas that are vital to wholistic veterinary medical practice. At this time in our collective evolution, both humans and animals must supplement due to the commercialized, mechanized, monetized, and industrialized approach to food/animal production. Mother Earth's soils have been depleted. 'Nutri-nourishment' is essential to survive as well as thrive!
 
-must supplement due to the commercialized, mechanized, monetized, and industrialized approach to
+Muscle Response Testing is a technique which allows for clients to be a surrogate for their animals to survey the body in order to ask the 'physical body temple' what is needed and where from a nutritional standpoint.
 
-food/animal production. Mother Earth's soils have been depleted. 'Nutri-nourishment' is essential to survive as
-
-well as thrive!
-
-Muscle Response Testing is a technique which allows for clients to be a surrogate for their animals to survey the
-
-body in order to ask the 'physical body temple' what is needed and where from a nutritional standpoint.
-
-VETERINARY FORMULAS (tm)
+VETERINARY FORMULAS (tm) (Standard Process)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/549f87d8-52cc-4b3d-b880-1ac33a40a8f4.jpg)
