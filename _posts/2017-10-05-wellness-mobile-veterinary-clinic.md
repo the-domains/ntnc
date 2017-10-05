@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 1) Ayuvedic Veterinary Medicine
-dateModified: '2017-10-05T15:28:59.461Z'
-datePublished: '2017-10-05T15:29:00.226Z'
+dateModified: '2017-10-05T15:29:37.449Z'
+datePublished: '2017-10-05T15:29:38.138Z'
 title: WELLNESS MOBILE VETERINARY CLINIC
 author: []
 publisher: {}
@@ -33,17 +33,7 @@ The earliest information on the art of caring for animals in India is provided b
 
 2) _Traditional Chinese Medicine (TCM) -- Chi Institute; International Veterinary Acupuncture Society_
 
-Traditional Chinese Veterinary Medicine (TCVM), although relatively new to the Western world, is a medical system that
-
-has been used in China to treat animals for thousands of years.  It is an adaptation and extension of Traditional Chinese
-
-Medicine (TCM) used to treat humans.  Speaking broadly, Chinese Medicine is a complete body of thought and practice
-
-grounded in Chinese Daoist philosophy.  Though it can be traced back over two millennia in recorded history, it, like any
-
-medical system, continues to evolve today, and current research on acupuncture and herbal medicine is beginning to shed
-
-light on its mechanism of action.
+Traditional Chinese Veterinary Medicine (TCVM), although relatively new to the Western world, is a medical system used in China to treat animals for thousands of years.  It is an adaptation and extension of Traditional Chinese Medicine (TCM) used to treat humans.  Speaking broadly, Chinese Medicine is a complete body of thought and practice grounded in Chinese Daoist philosophy.  Though it can be traced back over two millennia in recorded history, it, like any medical system, continues to evolve today, and current research on acupuncture and herbal medicine is beginning to shed light on its mechanism of action.
 
 3) Nutrition is 80% of overall health and wellness. Standard Process holds a line of Veterinary Formulas that are
 
