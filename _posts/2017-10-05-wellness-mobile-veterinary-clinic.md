@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 1) Ayuvedic Veterinary Medicine
-dateModified: '2017-10-05T15:38:50.708Z'
-datePublished: '2017-10-05T15:38:51.691Z'
+dateModified: '2017-10-05T15:39:24.303Z'
+datePublished: '2017-10-05T15:39:25.311Z'
 title: WELLNESS MOBILE VETERINARY CLINIC
 author: []
 publisher: {}
@@ -36,13 +36,11 @@ The earliest information on the art of caring for animals in India is provided b
 
 Traditional Chinese Veterinary Medicine (TCVM), although relatively new to the Western world, is a medical system used in China to treat animals for thousands of years.  It is an adaptation and extension of Traditional Chinese Medicine (TCM) used to treat humans.  Speaking broadly, Chinese Medicine is a complete body of thought and practice grounded in Chinese Daoist philosophy.  Though it can be traced back over two millennia in recorded history, it, like any medical system, continues to evolve today, and current research on acupuncture and herbal medicine is beginning to shed light on its mechanism of action.
 
-3) _'Nutri-Nourishment' is minimally 90% of overall health and wellness! _
+3) _'Nutri-Nourishment' is minimally 90% of overall health and wellness! (_VETERINARY FORMULAS (tm) Standard Process)
 
 Standard Process holds a line of Veterinary Formulas that are vital to wholistic veterinary medical practice. At this time in our collective evolution, both humans and animals must supplement due to the commercialized, mechanized, monetized, and industrialized approach to food/animal production. Mother Earth's soils have been depleted. 'Nutri-nourishment' is essential to survive as well as thrive!
 
 Muscle Response Testing is a technique which allows for clients to be a surrogate for their animals to survey the body in order to ask the 'physical body temple' what is needed and where from a nutritional standpoint.
-
-VETERINARY FORMULAS (tm) (Standard Process)
 ![
 
 1) Nutri-Nourishment  2) Acupuncture 3) Animal Chiropractic 4) Essential Oils
