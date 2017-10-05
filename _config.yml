@@ -28,7 +28,7 @@ author:
   url: 'https://www.AgrihoodsGlobal.com.'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/22949873-e8dc-4bec-b41e-e55a525faca2.png
-name: Green Pastures Agrihoods
+name: Green Pastures AgriVillages
 url: 'https://agrihoodsglobal.com/'
 cta:
   domain: null
@@ -41,6 +41,9 @@ navigation:
   - name: Business Collaborators & Partners
     id: 2c4b2333-abe3-46c4-a4a7-1ccdafdf8ad7
     type: content
+  - name: Wellness Mobile Veterinary Clinic
+    url: 'http://WellnessVeterinaryClinic.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64ce8cb4-4530-4ea7-9234-b4bd2dd5b312.png
 title: Green Pastures AgriVillages
