@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:58:04.125Z'
-datePublished: '2017-10-06T00:58:04.738Z'
+dateModified: '2017-10-06T01:22:53.927Z'
+datePublished: '2017-10-06T01:22:54.803Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author: []
 publisher:
@@ -164,6 +164,6 @@ Earth Nectar is a broad spectrum of soil based enzymes made by microbes. This pr
 
 Green Pastures AgriVillages is a proud business partner with the premium product line manufactured by Soil Secrets LLC.
 
-[0]: https://soilsecrets.com/
+[0]: https://SoilSecrets.com/
 [1]: https://en.wikipedia.org/wiki/Mutualism_(biology) "Mutualism (biology)"
 [2]: https://en.wikipedia.org/wiki/Orchidaceae "Orchidaceae"
