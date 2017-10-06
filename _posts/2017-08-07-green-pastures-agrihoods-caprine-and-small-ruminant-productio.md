@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures AgriVillages will focus primarily on meat, then dairy goat
   production for self-reliance.
-dateModified: '2017-10-03T23:46:18.649Z'
-datePublished: '2017-10-03T23:46:19.021Z'
+dateModified: '2017-10-06T01:41:56.448Z'
+datePublished: '2017-10-06T01:41:57.385Z'
 title: 'Green Pastures AgriVillages: Caprine & Small Ruminant Production'
 author: []
 publisher: {}
