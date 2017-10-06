@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:24:59.756Z'
-datePublished: '2017-10-06T01:25:00.618Z'
+dateModified: '2017-10-06T01:26:04.761Z'
+datePublished: '2017-10-06T01:26:05.542Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -48,7 +48,7 @@ Humates: All Soil Secrets products meet the benchmark of the USDA National Organ
 Green Pastures AgriVillages welcomes the two designations of Soil Secrets LLC with the USDA National Organic Program (NOP), and the USDA Certified BioBased Product.
 
 In addition, Soil Secrets science in Humic Acids is the best in the world, using a "Commercial Proprietary Information Contract" at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids (Acct\#-483 715 for orders).
-![The National Organic Program (NOP) is a regulatory program housed within the USDA Agricultural Marketing Service. We are responsible for developing national standards for organically-produced agricultural products. These standards assure consumers that products with the USDA organic seal meet consistent, uniform standards. Our regulations do not address food safety or nutrition. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65c9b714-9b11-4937-afd9-46278b608716.jpg)
+![The National Organic Program (NOP) is a regulatory program housed within the USDA Agricultural Marketing Service. We are responsible for developing national standards for organically-produced agricultural products. These standards assure consumers that products with the USDA organic seal meet consistent, uniform standards. Our regulations do not address food safety or nutrition (Acct#-483 715 for orders). ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65c9b714-9b11-4937-afd9-46278b608716.jpg)
 
 ### _**Benefits of Soil Secrets:**_
 
