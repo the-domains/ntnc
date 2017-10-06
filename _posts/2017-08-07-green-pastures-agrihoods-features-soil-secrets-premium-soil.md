@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:26:59.023Z'
-datePublished: '2017-10-06T00:26:59.820Z'
+dateModified: '2017-10-06T00:28:19.320Z'
+datePublished: '2017-10-06T00:28:19.970Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -134,6 +134,8 @@ These benevolent fungi partner with many plants and trees. Their capability invo
 
 Soil Secrets provides the highest quality and concentration of mycorrhizal soil treatments available on the market! EndoMaxima(r), White Lightning(r), and MycoMaxima(r) offer high quality, efficiency, effectiveness, and excellence with professional concentrated products. All products are available in large quantities.
 
+Mycorrhizal fungi form a [mutualistic ][1]relationship with the roots of most plant species. In such a relationship, both the plants themselves and those parts of the roots that host the fungi, are said to be mycorrhizal. Relatively few of the mycorrhizal relationships between plant species and fungi have been examined to date, but 95% of the plant families investigated are predominantly mycorrhizal either in the sense that most of their species associate beneficially with mycorrhizae, or are absolutely dependent on mycorrhizae. The [Orchidaceae ][2]are notorious as a family in which the absence of the correct mycorrhizae is fatal even to germinating seeds
+
 **Mycorrhizal Fungal Benefits of Soil Secrets:**
 
 * _Builds topsoil for sequestering of essential carbon!_
@@ -152,3 +154,5 @@ Soil Secrets provides the highest quality and concentration of mycorrhizal soil 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70856763-d95b-4a9a-b19f-71da27c31a1d.jpg)
 
 [0]: https://soilsecrets.com/
+[1]: https://en.wikipedia.org/wiki/Mutualism_(biology) "Mutualism (biology)"
+[2]: https://en.wikipedia.org/wiki/Orchidaceae "Orchidaceae"
