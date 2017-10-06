@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:19:23.616Z'
-datePublished: '2017-10-06T00:19:25.129Z'
+dateModified: '2017-10-06T00:19:43.933Z'
+datePublished: '2017-10-06T00:19:45.354Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
