@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:35:03.371Z'
-datePublished: '2017-10-06T01:35:04.200Z'
+dateModified: '2017-10-06T01:36:20.123Z'
+datePublished: '2017-10-06T01:36:20.985Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -177,10 +177,12 @@ _TTP Supreme Compost_ can also be used, as it is a great organic form of nutrien
 ![Winter Watering
 
 As trees go dormant (deciduous trees lose leaves) decrease watering frequency from 7 to 14 to 21 day intervals. Water when able in the winter (i.e. when the ground is not frozen). Young trees / shrubs must be watered during the winter to prevent the root ball from drying out which may result in death of your tree. Winter watering should be done approximately once every 3-4 weeks by soaking the tree canopy drip zone using a sprinkler or by filling the watering basin.  Make sure the plant is not soaking in wet mud all winter long which can cause rot. Moist soils not wet are the rule (Acct#-483 715 for orders).](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8469a5-f1a1-4df5-838e-bc0b3a87a4e0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f6d2e4-fa08-4067-a203-f08889bfbb0d.jpg)
+![Pruning
+
+Resist the urge to prune and shape during the first season unless there are dead or misshapen branches. Leaving these branches on the plant helps to support growth of new roots and shoots. Pruning can be done during dormancy after the first growing season or anytime (season) thereafter. Winter pruning often increases vigor (Acct#-483 715 for orders).](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f6d2e4-fa08-4067-a203-f08889bfbb0d.jpg)
 ![Earth Nectar®: A super drink for the soil!   There’s no question about it, microbes rule. They run all the major chemical cycles on earth by making enzymes that serve as catalysts to many of the important chemical reactions in the soil. 
 
-Earth Nectar is a broad spectrum of soil based enzymes made by microbes. This product also contains TTP Supreme Compost, whole kelp, humus, and plant extracts, each dissolved into a rich nectar for the soil. Earth Nectar and Earth Ambrosia can be blended together in equal amounts, diluted with water and sprayed onto the soil as a drench. Do Not Use more than 1 gallon of either product per 1000 sq. ft. of application.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f341dc0-b26a-404e-a7ee-580796f356f1.jpg)
+Earth Nectar is a broad spectrum of soil based enzymes made by microbes. This product also contains TTP Supreme Compost, whole kelp, humus, and plant extracts, each dissolved into a rich nectar for the soil. Earth Nectar and Earth Ambrosia can be blended together in equal amounts, diluted with water and sprayed onto the soil as a drench. Do Not Use more than 1 gallon of either product per 1000 sq. ft. of application (Acct#-483 715 for orders).](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f341dc0-b26a-404e-a7ee-580796f356f1.jpg)
 ![TTP Supreme Compost®:  100% wholesome ingredients.  If made with quality ingredients and tight quality controls, compost can be an excellent source of organic nutrients. Never use a compost product without first examining the analysis of the product to see if it meets your needs. TTPSupreme Compost is a nutrient dense product that’s been triple screened, providing a clean and fine particle size product, that’s also clean enough to be used in hydroseeding equipment. City bio-solids (human waste) are not allowed in this product, which helps us guarantee you that disease contamination is minimized. This product has been tested by Western Labs for soil disease and has consistently tested clean and free of those risks. This product is nutrient dense and needs to be used sparingly, as a little goes a long way! A full assay of tests showing maturity, stability, Humic Acids, organic matter, nitrogen, major and minor nutrients, and carbon to nitrogen ratio is available upon request by emailing us as info@soilsecrets.com ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70856763-d95b-4a9a-b19f-71da27c31a1d.jpg)
 
 Green Pastures AgriVillages is a proud business partner with the premium product line manufactured by Soil Secrets LLC.
