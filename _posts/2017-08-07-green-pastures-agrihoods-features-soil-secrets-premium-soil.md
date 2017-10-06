@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:00:52.824Z'
-datePublished: '2017-10-06T00:00:53.764Z'
+dateModified: '2017-10-06T00:10:03.914Z'
+datePublished: '2017-10-06T00:10:05.520Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -39,7 +39,7 @@ All Soil Secrets products meet the benchmark of the USDA National Organic Progra
 • Greener more environmentally sound landscapes.
 • Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, and jump starts healthy mutualistic soil biology for plants.
 
-In addition, Soil Secrets science in Humic Acids is the best in the world, using a “Commercial Proprietary Information Contract” at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids (Acct#-483 715 for orders).](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4f9bc1cccee9868e99a790ed5b813c0f/croprotate.png?cropheight=1583&cropwidth=5311&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1581859a-3c69-4332-9ba2-8e9f1264c215.png&x=43&y=0)
+In addition, Soil Secrets science in Humic Acids is the best in the world, using a “Commercial Proprietary Information Contract” at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids (Acct#-483 715 for orders).](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/969ac2ff3aec74d3db82e7f7f2860d85/croprotate.png?cropheight=1582&cropwidth=5311&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F8592247bdc20f99701041bac0f0d38dcbebab131.png&x=0&y=0)
 
 ### _**Benefits of Soil Secrets:**_
 
@@ -48,9 +48,9 @@ In addition, Soil Secrets science in Humic Acids is the best in the world, using
 * Optimal efficiency of photosynthesis!
 * Improved nutrient exchange!
 * Optimized local "soil food web"!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ed33dfa-7bbc-4fe6-bfe2-3fdf984ac430.png)
+![Biobased product, was defined by the United States Secretary of Agriculture in the Farm Security and Rural Investment Act of 2002 as follows, "The term ‘‘biobased product’’ means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products or renewable domestic agricultural materials (including plant, animal, and marine materials) or forestry materials OR an intermediate feedstock.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ed33dfa-7bbc-4fe6-bfe2-3fdf984ac430.png)
 
-## **"Soil Food Web"**
+### **"Soil Food Web"**
 
 _Green Pastures AgriVillage_s believes in the Soil Secrets premium product line. This amazing product line reveres the "soil food web", network of ecosystems, which provides nutrient distribution for the multiple feeding levels found within Mother Earth -- the "Soil Food Web"(SFW)!
 
@@ -66,7 +66,8 @@ Soil Secrets taps into the SFW:
 * _Increases crop production yields_
 * _Optimized "Soil Food Web"_
 * _Long term decrease in costs_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b171c28-b78c-4de3-97af-9d22292eb451.jpg)
+![Soil Secrets LLC develops products which instigate the natural biochemical process required for healthy soils. This process is referred to as the ‘Soil Food Web’. The foundation of the Soil Secrets protocol is based on Mycorrhizal fungi and Humic substances rich in Humic Acids. Soils of urban landscapes, farms and other sites are often deficient or completely lacking in Mycorrhizae and Humic substances. Individually and combined these products provide the primary benefits we are after, which includes better nutrition for the plant, better water management for the landscape or farm and the building of soil (Pedogenesis).
+Interests: Erosion Control, Erosion Control Products, Mine Reclamation, Organic Farming, Organic Agriculture, Farming Soil, Organic Soil.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b171c28-b78c-4de3-97af-9d22292eb451.jpg)
 
 ## Applied Science of Humic Acids: TerraPro(r)
 
