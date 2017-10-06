@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 1) Ayuvedic Veterinary Medicine
-dateModified: '2017-10-05T15:39:24.303Z'
-datePublished: '2017-10-05T15:39:25.311Z'
+dateModified: '2017-10-06T01:41:56.448Z'
+datePublished: '2017-10-06T01:41:57.384Z'
 title: WELLNESS MOBILE VETERINARY CLINIC
 author: []
 publisher: {}
