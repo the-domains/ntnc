@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:37:10.010Z'
-datePublished: '2017-10-06T01:37:10.734Z'
+dateModified: '2017-10-06T01:37:38.024Z'
+datePublished: '2017-10-06T01:37:38.859Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -173,7 +173,7 @@ If you have any doubts then check the soils moisture content. Push aside the mul
 
 The Soil Secrets products, _Earth Magic_ / _Protein Crumblies_, may be applied anytime, normally twice annually. These products inoculate your soil with beneficial soil bacteria and mycorrhizae fungi, and much needed Humus and provide plant available mineral nutrients. The beneficial mycorrhizae fungi help plants acquire water and nutrients making your landscape stronger and more drought tolerant in the long run. Humus -- humus and more humus. _Earth Magic_ is humus and there is no toxicity point to humus. If your soils are awful and you are in doubt use more than the label rate. Nothing else can do what humus and mycorrhizae do!!!!
 
-_TTP Supreme Compost_ can also be used, as it is a great organic form of nutrients that remain available to plants in the soil for a greater time than inorganic sources of nitrogen, phosphorous, and potassium. Many of these inorganic sources are water soluble and are carried deeper into the soil and away from the roots with each watering. It is best to avoid chemical fertilizers for this reason. Compost feeding can be done by direct application to the mulch beds around plants and then thoroughly watered in. All fertilizers chemical or organic need to be used properly as too much of even a good thing like our _TTP Supreme Compost_ can cause burn and can cause plants to lose their relationship with the mycorrhizae. Feed with compost twice annually, in spring and fall..
+_TTP Supreme Compost_ can also be used, as it is a great organic form of nutrients that remain available to plants in the soil for a greater time than inorganic sources of nitrogen, phosphorous, and potassium. Many of these inorganic sources are water soluble and are carried deeper into the soil and away from the roots with each watering. It is best to avoid chemical fertilizers for this reason. Compost feeding can be done by direct application to the mulch beds around plants and then thoroughly watered in. All fertilizers chemical or organic need to be used properly as too much of even a good thing like our _TTP Supreme Compost_ can cause burn and can cause plants to lose their relationship with the mycorrhizae. Feed with compost twice annually, in spring and fall.
 ![Winter Watering
 
 As trees go dormant (deciduous trees lose leaves) decrease watering frequency from 7 to 14 to 21 day intervals. Water when able in the winter (i.e. when the ground is not frozen). Young trees / shrubs must be watered during the winter to prevent the root ball from drying out which may result in death of your tree. Winter watering should be done approximately once every 3-4 weeks by soaking the tree canopy drip zone using a sprinkler or by filling the watering basin.  Make sure the plant is not soaking in wet mud all winter long which can cause rot. Moist soils not wet are the rule (Acct#-483 715 for orders).](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8469a5-f1a1-4df5-838e-bc0b3a87a4e0.jpg)
