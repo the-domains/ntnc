@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:28:24.653Z'
-datePublished: '2017-10-06T01:28:25.461Z'
+dateModified: '2017-10-06T01:28:44.716Z'
+datePublished: '2017-10-06T01:28:45.490Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -157,7 +157,7 @@ Mycorrhizal fungi form a [mutualistic ][1]relationship with the roots of most pl
 * _Increased profitability!_
 ![Protein Crumblies® is nature’s best source of nutritional calories for feeding the soil. Derived from selected vegetable proteins, Soil Secrets has selected this product for the best ratios of amino acids that can provide the highest protein efficiency value possible. 
 
-Soil Microorganisms are part of the ‘Soil Food Web’ and Protein Crumblies can provide these microorganisms a high quality protein with the highest percent nitrogen per unit of protein. This product has a crude protein content providing a source of slow release organic nitrogen. The nitrogen can become part of the Soil Food Web once totally liberated by the action of the primary, secondary, and tertiary decomposers (soil microorganisms), and many plants can uptake the amino acids derived from this protein as part of their nitrogen budget.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af03cb4f-9f4e-4e3f-ae9c-b8fdca7f2ee9.jpg)
+Soil Microorganisms are part of the ‘Soil Food Web’ and Protein Crumblies can provide these microorganisms a high quality protein with the highest percent nitrogen per unit of protein. This product has a crude protein content providing a source of slow release organic nitrogen. The nitrogen can become part of the Soil Food Web once totally liberated by the action of the primary, secondary, and tertiary decomposers (soil microorganisms), and many plants can uptake the amino acids derived from this protein as part of their nitrogen budget (Acct#-483 715 for orders).](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af03cb4f-9f4e-4e3f-ae9c-b8fdca7f2ee9.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5713e4055dc89064ca436d38eb5be6fa91c034.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8469a5-f1a1-4df5-838e-bc0b3a87a4e0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f6d2e4-fa08-4067-a203-f08889bfbb0d.jpg)
