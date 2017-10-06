@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages holds an apiary of 10 million individuals!
   Agrihoods and beekeeping are great partners! Thus, creating a bee-friendly
   environment is a priority.
-dateModified: '2017-10-06T01:12:09.722Z'
-datePublished: '2017-10-06T01:12:10.776Z'
+dateModified: '2017-10-06T01:13:13.495Z'
+datePublished: '2017-10-06T01:13:14.234Z'
 title: Green Pastures AgriVillages
 author: []
 publisher: {}
@@ -25,13 +25,10 @@ _type: Blurb
 
 _**Green Pastures AgriVillages**_ holds an apiary of 10 million individuals! Agrihoods and beekeeping are great partners! Thus, creating a bee-friendly environment is a priority.
 
-Aromatic Herbs - coriander, catnip, mint, parsley, lavender/_Lavandula, _mint_/Mentha, _sage/_Salvia_.
-
-Annuals - marigolds, phlox, bachelor's button, zinnia, _cosmos_, salvia.
-
-Perennials - bergamot bee balm/_Monarda_, Shasta daisy, iris, coneflower, lobelia, delphinium.
-
-Tree/Shrubs - dogwood, blueberry, linden, cherry, plum, willow.
+* **Aromatic Herbs** - coriander, catnip, mint, parsley, lavender/_Lavandula, _mint_/Mentha, _sage/_Salvia_.
+* **Annuals** - marigolds, phlox, bachelor's button, zinnia, _cosmos_, salvia.
+* **Perennials** - bergamot bee balm/_Monarda_, Shasta daisy, iris, coneflower, lobelia, delphinium.
+* **Tree/Shrubs** - dogwood, blueberry, linden, cherry, plum, willow.
 
 Bees will be drawn to any areas with water such as shallow pools, mud puddles, birdbaths.
 
