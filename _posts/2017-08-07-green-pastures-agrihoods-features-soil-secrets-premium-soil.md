@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:19:43.933Z'
-datePublished: '2017-10-06T00:19:45.354Z'
+dateModified: '2017-10-06T00:20:37.170Z'
+datePublished: '2017-10-06T00:20:38.343Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -116,7 +116,7 @@ This phenomenal premium product line realizes that the element of nitrogen is an
 
 Nitrogen is a building block of amino acids, and, amino acids are the building blocks of protein! Supplying the "soil food web" with easily accessible and quality protein nutrients, such as Protein Crumblies(r) that contain "essential amino acids", optimally nourishes the soil's ecosystem in our precious earth! With optimal nourishing comes optimal flourishing!
 
-### TerraPro of Soil Secrets:
+### _**TerraPro of Soil Secrets:**_
 
 * Provides amino acids containing essential Nitrogen element!
 * Improves plant's nutritional value!
