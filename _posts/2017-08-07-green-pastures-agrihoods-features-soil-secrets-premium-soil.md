@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:39:43.436Z'
-datePublished: '2017-10-06T01:39:44.035Z'
+dateModified: '2017-10-06T01:40:09.894Z'
+datePublished: '2017-10-06T01:40:10.767Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -41,7 +41,7 @@ Humates: All Soil Secrets products meet the benchmark of the USDA National Organ
 • Improved water drought tolerance of crops, sports  fields, etc.
 • Improvement of water storage in soils.
 • Greener more environmentally sound landscapes.
-• Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, & jump starts healthy mutualistic plant soil biology.
+• Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, & jump starts healthy mutualistic plant soil biology (Acct#-483 715 for orders).
 
 ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3929f03e2233d781c842f309d98ea09c73807729.png)
 
