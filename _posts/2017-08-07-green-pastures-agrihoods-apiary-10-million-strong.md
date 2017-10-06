@@ -4,9 +4,9 @@ description: >-
   Green Pastures AgriVillages holds an apiary of 10 million individuals!
   Agrihoods and beekeeping are great partners! Thus, creating a bee-friendly
   environment is a priority.
-dateModified: '2017-10-04T00:03:56.044Z'
-datePublished: '2017-10-04T00:03:56.658Z'
-title: 'Green Pastures AgriVillages: Apiary - 10 million strong!'
+dateModified: '2017-10-06T01:12:09.722Z'
+datePublished: '2017-10-06T01:12:10.776Z'
+title: Green Pastures AgriVillages
 author: []
 publisher: {}
 via: {}
@@ -16,9 +16,11 @@ datePublishedOriginal: '2017-08-07T02:15:34.223Z'
 _type: Blurb
 
 ---
-<button data-role="cta" style="">Beekeeping</button>
+[Beekeeping][0]
 
-# _**Green Pastures AgriVillages: Apiary - 10 million strong!**_
+# _**Green Pastures AgriVillages**_
+
+## _**Apiary-10 million strong!**_
 ![AgriVillages provide a wonderful environment for beekeeping, especially honey bees! Honey bees do provide information about the vitality of ecosystems, as they are sentinel beings.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba520bef-713d-49e6-878e-cf4486d04923.jpg)
 
 _**Green Pastures AgriVillages**_ holds an apiary of 10 million individuals! Agrihoods and beekeeping are great partners! Thus, creating a bee-friendly environment is a priority.
@@ -36,3 +38,5 @@ Bees will be drawn to any areas with water such as shallow pools, mud puddles, b
 For shelter, bare ground supports "ground-nesting". Garden or crop residue provides benefits during the winter. Schedule, 'cleanup' for mid-Spring. Materials for nesting include cut plant stems, twigs, and small piles of brush.
 
 Organic beekeeping is an intentional practice. Thus, one must read labels and become studied with detrimental chemicals to bees (e.g. pesticides, herbicides, insecticides). Options include garlic spray, essential oils (lavender, echinacea).
+
+[0]: https://www.facebook.com/GreenPastureAgriVillages/
