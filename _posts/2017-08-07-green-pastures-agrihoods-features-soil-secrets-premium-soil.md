@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:38:39.256Z'
-datePublished: '2017-10-06T01:38:40.245Z'
+dateModified: '2017-10-06T01:39:43.436Z'
+datePublished: '2017-10-06T01:39:44.035Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -67,7 +67,7 @@ The SFW refers to an earth-based ecosystem ("community of organisms") where thes
 
 Further, there is an intricate level of bioactivity with transfers of energy, between multiple species, within a biologically based system (ecosystem).
 
-Soil Secrets taps into the SFW:
+### _**Soil Secrets taps into the SFW:**_
 
 _1) Decreases water usage!_
 
@@ -119,11 +119,11 @@ This professional grade Mycorrhizal inoculant intentionally does not include oth
 
 ### _**Healthy Soil = Healthy Food = Healthy Beings**_
 
-_**Green Pastures AgriVillages**_ offers this simple equation to educate citizens as to the necessity of understanding and supporting the "soil food web"! It is with great joy for Green Pastures Agrihoods to feature Soil Secrets.
+_**Green Pastures AgriVillages**_ offers this simple equation to educate citizens as to the necessity of understanding and supporting the "soil food web"! It is with great joy for **Green Pastures AgriVillages** to feature Soil Secrets.
 
 This phenomenal premium product line realizes that the element of nitrogen is an essential ingredient of the "soil food web"! Soil microbes and plants live in a symbiotic relationship that requires nitrogen.
 
-Nitrogen is a building block of amino acids, and, amino acids are the building blocks of protein! Supplying the "soil food web" with easily accessible and quality protein nutrients, such as Protein Crumblies(r) that contain "essential amino acids", optimally nourishes the soil's ecosystem in our precious earth! With optimal nourishing comes optimal flourishing!
+Nitrogen is a building block of amino acids, and, amino acids are the building blocks of protein! Supplying the "soil food web" with easily accessible and quality protein nutrients, such as _Protein Crumblies(r) _that contain "essential amino acids", optimally nourishes the soil's ecosystem in our precious earth! With optimal nourishing comes optimal flourishing!
 
 ### _**TerraPro of Soil Secrets:**_
 
