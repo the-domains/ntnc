@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:12:33.327Z'
-datePublished: '2017-10-06T00:12:34.478Z'
+dateModified: '2017-10-06T00:12:50.910Z'
+datePublished: '2017-10-06T00:12:51.813Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -74,7 +74,7 @@ _6) Decreased costs long term _
 ![Soil Secrets LLC develops products which instigate the natural biochemical process required for healthy soils. This process is referred to as the ‘Soil Food Web’. The foundation of the Soil Secrets protocol is based on Mycorrhizal fungi and Humic substances rich in Humic Acids. Soils of urban landscapes, farms and other sites are often deficient or completely lacking in Mycorrhizae and Humic substances. Individually and combined these products provide the primary benefits we are after, which includes better nutrition for the plant, better water management for the landscape or farm and the building of soil (Pedogenesis).
 Interests: Erosion Control, Erosion Control Products, Mine Reclamation, Organic Farming, Organic Agriculture, Farming Soil, Organic Soil.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b171c28-b78c-4de3-97af-9d22292eb451.jpg)
 
-## Applied Science of Humic Acids: TerraPro(r)
+### _**Applied Science of Humic Acids: TerraPro(r)**_
 
 _**Green Pastures AgriVillages**_, with the support of Soil Secrets, uses sound science to support healthy soils. Some of this sound science includes humic acids. Humic acids are essential to the best quality, healthy, rich, and most productive soils in the world!
 
