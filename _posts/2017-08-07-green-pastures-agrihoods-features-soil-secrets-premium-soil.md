@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:12:50.910Z'
-datePublished: '2017-10-06T00:12:51.813Z'
+dateModified: '2017-10-06T00:13:21.379Z'
+datePublished: '2017-10-06T00:13:21.989Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -84,7 +84,7 @@ With 'humic acid enrichment', microbes are nurtured within the "soil food web" (
 
 _**Green Pastures AgriVillages**_ appreciates Soil Secrets' ability to authentically honor the essential element of carbon, which is contained within soils, as humic acids. Humic acids have supramolecular capability for effectiveness in treatment for land remediation. Their ability for land remediation can counter toxins, corrosive materials, and even salty environments. This furtherimproves the SFW!
 
-### Soil Secrets Benefits:
+## _**Soil Secrets Benefits:**_
 
 * _Improves nutrient uptake!_
 * _Improves "SFW" structure &amp; root development!_
@@ -95,7 +95,7 @@ _**Green Pastures AgriVillages**_ appreciates Soil Secrets' ability to authentic
 * _Improves fertility!_
 * _Remediates damage by crude oil, salt; mine tailing by removing heavy metals from water/soil!_
 
-### Applied science for Green Pastures AgriVillages with Soil Secrets:
+## _**Applied science for Green Pastures AgriVillages with Soil Secrets:**_
 
 * _Agri-Enterprises_
 * _Landscapes_
