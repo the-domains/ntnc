@@ -6,8 +6,8 @@ description: >-
   village as “AgriVillages”.
 author:
   - name: Bill Bartlett
-datePublished: '2017-10-05T16:26:06.300Z'
-dateModified: '2017-10-05T16:26:05.848Z'
+datePublished: '2017-10-06T01:41:57.379Z'
+dateModified: '2017-10-06T01:41:56.448Z'
 title: >-
   Mother Earth Reverence Farms & Ministries presents Green Pastures
   AgriVillages!
