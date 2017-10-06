@@ -5,8 +5,8 @@ description: >-
   especially for medicinal plants (e.g. ‘aquapothecary’). Aquaponics food
   production systems will become the predominate form of self-reliance in the
   ‘agrivillage prototype model’.
-dateModified: '2017-10-03T23:42:16.517Z'
-datePublished: '2017-10-03T23:42:17.160Z'
+dateModified: '2017-10-06T01:41:56.448Z'
+datePublished: '2017-10-06T01:41:57.369Z'
 title: 'Green Pastures AgriVillages: Aquaponics'
 author: []
 publisher: {}
