@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:10:03.914Z'
-datePublished: '2017-10-06T00:10:05.520Z'
+dateModified: '2017-10-06T00:10:17.225Z'
+datePublished: '2017-10-06T00:10:18.780Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -39,7 +39,7 @@ All Soil Secrets products meet the benchmark of the USDA National Organic Progra
 • Greener more environmentally sound landscapes.
 • Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, and jump starts healthy mutualistic soil biology for plants.
 
-In addition, Soil Secrets science in Humic Acids is the best in the world, using a “Commercial Proprietary Information Contract” at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids (Acct#-483 715 for orders).](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/969ac2ff3aec74d3db82e7f7f2860d85/croprotate.png?cropheight=1582&cropwidth=5311&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F8592247bdc20f99701041bac0f0d38dcbebab131.png&x=0&y=0)
+In addition, Soil Secrets science in Humic Acids is the best in the world, using a “Commercial Proprietary Information Contract” at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids (Acct#-483 715 for orders).](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3929f03e2233d781c842f309d98ea09c73807729.png)
 
 ### _**Benefits of Soil Secrets:**_
 
