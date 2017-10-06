@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:28:44.716Z'
-datePublished: '2017-10-06T01:28:45.490Z'
+dateModified: '2017-10-06T01:32:50.263Z'
+datePublished: '2017-10-06T01:32:51.424Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -158,7 +158,22 @@ Mycorrhizal fungi form a [mutualistic ][1]relationship with the roots of most pl
 ![Protein Crumblies® is nature’s best source of nutritional calories for feeding the soil. Derived from selected vegetable proteins, Soil Secrets has selected this product for the best ratios of amino acids that can provide the highest protein efficiency value possible. 
 
 Soil Microorganisms are part of the ‘Soil Food Web’ and Protein Crumblies can provide these microorganisms a high quality protein with the highest percent nitrogen per unit of protein. This product has a crude protein content providing a source of slow release organic nitrogen. The nitrogen can become part of the Soil Food Web once totally liberated by the action of the primary, secondary, and tertiary decomposers (soil microorganisms), and many plants can uptake the amino acids derived from this protein as part of their nitrogen budget (Acct#-483 715 for orders).](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af03cb4f-9f4e-4e3f-ae9c-b8fdca7f2ee9.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5713e4055dc89064ca436d38eb5be6fa91c034.jpg)
+![TREE AND SHRUB CARE – FIRST SEASON
+
+Summer Watering
+
+A newly planted tree should be watered approximately once every 2-4 days by soaking the tree canopy drip zone using a sprinkler or due to area or budget constraints by filling a water basin. Optimum Tree Growth will occur if you mulch the tree canopy drip zone or basin with organics or wood chips to a depth of 4 to 6 inches, leaving a bare 4-inch to 6 inch area directly around the trunk. (The ideal tree planting site is a mulched site, with a radius of 20 feet which is the potential reach of a small tree roots during the first growing season. Soak this zone once per week until the soil is saturated.)
+
+If you have any doubts then check the soils moisture content. Push aside the mulch, and grab a handful of soil. If it is soaking wet then decrease water.  If your soil is just moist to dry, then it is time to water. 
+
+
+](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5713e4055dc89064ca436d38eb5be6fa91c034.jpg)
+
+### _**Feeding or Fertilizing**_
+
+The Soil Secrets products, Earth Magic / Protein Crumblies, may be applied anytime, normally twice annually. These products inoculate your soil with beneficial soil bacteria and mycorrhizae fungi, and much needed Humus and provide plant available mineral nutrients. The beneficial mycorrhizae fungi help plants acquire water and nutrients making your landscape stronger and more drought tolerant in the long run. Humus -- humus and more humus. Earth Magic is humus and there is no toxicity point to humus. If your soils are awful and you are in doubt use more than the label rate. Nothing else can do what humus and mycorrhizae do!!!!
+
+TTP Supreme Compost can also be used, as it is a great organic form of nutrients that remain available to plants in the soil for a greater time than inorganic sources of nitrogen, phosphorous, and potassium. Many of these inorganic sources are water soluble and are carried deeper into the soil and away from the roots with each watering. It is best to avoid chemical fertilizers for this reason. Compost feeding can be done by direct application to the mulch beds around plants and then thoroughly watered in. All fertilizers chemical or organic need to be used properly as too much of even a good thing like our TTP Supreme Compost can cause burn and can cause plants to lose their relationship with the mycorrhizae. Feed with compost twice annually, in spring and fall..
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8469a5-f1a1-4df5-838e-bc0b3a87a4e0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f6d2e4-fa08-4067-a203-f08889bfbb0d.jpg)
 ![Earth Nectar®: A super drink for the soil!   There’s no question about it, microbes rule. They run all the major chemical cycles on earth by making enzymes that serve as catalysts to many of the important chemical reactions in the soil. 
