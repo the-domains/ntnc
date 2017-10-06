@@ -4,11 +4,13 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:40:07.431Z'
-datePublished: '2017-10-06T00:40:08.087Z'
+dateModified: '2017-10-06T00:48:13.055Z'
+datePublished: '2017-10-06T00:48:13.886Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
-publisher: {}
+publisher:
+  name: GREEN PASTURES AGRIVILLAGES/MOTHER EARTH REVERENCE FARMS
+  url: ''
 via: {}
 hasPage: true
 sourcePath: >-
@@ -30,16 +32,19 @@ There are essential biochemical processes necessary for optimal plant nutrition.
 Urban gardens and lawns may safely access **Soil Secrets** products for optimal plant and sod health! Rest assured that these plant-derived, organic treatment essentials actually serve Mother Earth, her "soil food web", and any plants or crops grown!
 ![Soil Secrets LLC develops products that instigate the natural biochemical process required for healthy soils and proper plant nutrition.
 
-Humates
-
-All Soil Secrets products meet the benchmark of the USDA National Organic Program, and with Certifier approval, can be used on Organic Certified farms. The products are also safe for use on home gardens and lawns, without the fear of damaging the environment or exposing our bodies to hazardous chemicals. Our products are used in the construction and maintenance of landscapes, golf courses, mine reclamation, highway re-vegetation and farming. Benefits of Soil Secrets products include:
+Humates: All Soil Secrets products meet the benchmark of the USDA National Organic Program, and with Certifier approval, can be used on Organic Certified farms. The products are also safe for use on home gardens and lawns, without the fear of damaging the environment or exposing our bodies to hazardous chemicals. Our products are used in the construction and maintenance of landscapes, golf courses, mine reclamation, highway re-vegetation and farming. Benefits of Soil Secrets products include:
 
 • Improved water drought tolerance of crops, sports  fields, etc.
 • Improvement of water storage in soils.
 • Greener more environmentally sound landscapes.
-• Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, and jump starts healthy mutualistic soil biology for plants.
+• Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, & jump starts healthy mutualistic plant soil biology.
 
-In addition, Soil Secrets science in Humic Acids is the best in the world, using a “Commercial Proprietary Information Contract” at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids (Acct#-483 715 for orders).](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3929f03e2233d781c842f309d98ea09c73807729.png)
+](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3929f03e2233d781c842f309d98ea09c73807729.png)
+
+Green Pastures AgriVillages welcomes the two designations of Soil Secrets LLC with the USDA National Organic Program (NOP), and the USDA Certified BioBased Product.
+
+In addition, Soil Secrets science in Humic Acids is the best in the world, using a "Commercial Proprietary Information Contract" at the National Labs. Soil Secrets owns the only molecular science on the species description of soil carbon molecules generically called humic acids (Acct\#-483 715 for orders).
+![The National Organic Program (NOP) is a regulatory program housed within the USDA Agricultural Marketing Service. We are responsible for developing national standards for organically-produced agricultural products. These standards assure consumers that products with the USDA organic seal meet consistent, uniform standards. Our regulations do not address food safety or nutrition. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65c9b714-9b11-4937-afd9-46278b608716.jpg)
 
 ### _**Benefits of Soil Secrets:**_
 
