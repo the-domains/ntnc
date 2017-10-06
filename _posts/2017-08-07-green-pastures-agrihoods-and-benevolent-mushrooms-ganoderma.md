@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures Agrihoods intentionally supports benevolent mushroom
   production, using the Ganoderma spp.
-dateModified: '2017-10-03T23:49:19.047Z'
-datePublished: '2017-10-03T23:49:19.759Z'
+dateModified: '2017-10-06T01:41:56.448Z'
+datePublished: '2017-10-06T01:41:57.379Z'
 title: Green Pastures AgriVillages & Benevolent Mushrooms - Ganoderma
 author: []
 publisher: {}
