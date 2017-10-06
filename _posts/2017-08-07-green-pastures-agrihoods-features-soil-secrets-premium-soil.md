@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:20:37.170Z'
-datePublished: '2017-10-06T00:20:38.343Z'
+dateModified: '2017-10-06T00:26:59.023Z'
+datePublished: '2017-10-06T00:26:59.820Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -123,7 +123,8 @@ Nitrogen is a building block of amino acids, and, amino acids are the building b
 * Improves environmental sustainability
 * Increases crop yields!
 * Increases monetary revenue!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de543881-2307-430a-805a-632789fb4ba0.jpg)
+![A mycorrhiza (from Greek μ&upsi;κός mykós, "fungus", and ῥίζα rhiza, "root"; pl. mycorrhizae or mycorrhizas) is a symbiotic association between a fungus and the roots of a vascular host plant.[1] The term mycorrhiza refers to the role of the fungi in the plants' rhizosphere, its root system. Mycorrhizae play important roles in soil biology and soil chemistry.
+In a mycorrhizal association, the fungus colonizes the host plant's root tissues, either intracellularly as in arbuscular mycorrhizal fungi (AMF or AM), or extracellularly as in ectomycorrhizal fungi. The association is generally mutualistic, but in particular species or in particular circumstances, mycorrhizae may be variously pathogenic in the host plants.[2]](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de543881-2307-430a-805a-632789fb4ba0.jpg)
 
 ## _**Mycorrhizal Products**_
 
