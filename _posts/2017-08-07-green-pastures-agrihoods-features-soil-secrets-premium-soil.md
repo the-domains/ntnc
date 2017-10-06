@@ -4,13 +4,15 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:22:53.927Z'
-datePublished: '2017-10-06T01:22:54.803Z'
+dateModified: '2017-10-06T01:23:47.177Z'
+datePublished: '2017-10-06T01:23:48.199Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author: []
 publisher:
-  name: GREEN PASTURES AGRIVILLAGES/MOTHER EARTH REVERENCE FARMS
-  url: ''
+  name: >-
+    GREEN PASTURES AGRIVILLAGES/MOTHER EARTH REVERENCE FARMS (Acct#-483 715 for
+    orders)
+  url: 'https://www.facebook.com/GreenPastureAgriVillages/'
 via: {}
 hasPage: true
 sourcePath: >-
