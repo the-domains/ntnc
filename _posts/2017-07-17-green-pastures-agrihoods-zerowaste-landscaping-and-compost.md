@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures AgriVillages provides a local community service for ‘ZeroWast
   Landscaping & Compost’.
-dateModified: '2017-10-03T23:40:47.311Z'
-datePublished: '2017-10-03T23:40:48.353Z'
+dateModified: '2017-10-06T01:41:56.448Z'
+datePublished: '2017-10-06T01:41:57.377Z'
 title: Green Pastures AgriVillages - ZeroWaste Landscaping & Compost
 author: []
 publisher: {}
