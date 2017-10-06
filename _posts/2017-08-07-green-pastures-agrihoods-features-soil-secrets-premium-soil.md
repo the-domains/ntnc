@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:26:04.761Z'
-datePublished: '2017-10-06T01:26:05.542Z'
+dateModified: '2017-10-06T01:26:21.421Z'
+datePublished: '2017-10-06T01:26:22.352Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -57,7 +57,7 @@ In addition, Soil Secrets science in Humic Acids is the best in the world, using
 * Optimal efficiency of photosynthesis!
 * Improved nutrient exchange!
 * Optimized local "soil food web"!
-![Biobased product, was defined by the United States Secretary of Agriculture in the Farm Security and Rural Investment Act of 2002 as follows, "The term ‘‘biobased product’’ means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products or renewable domestic agricultural materials (including plant, animal, and marine materials) or forestry materials OR an intermediate feedstock.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ed33dfa-7bbc-4fe6-bfe2-3fdf984ac430.png)
+![Biobased product, was defined by the United States Secretary of Agriculture in the Farm Security and Rural Investment Act of 2002 as follows, "The term ‘‘biobased product’’ means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products or renewable domestic agricultural materials (including plant, animal, and marine materials) or forestry materials OR an intermediate feedstock (Acct#-483 715 for orders).](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ed33dfa-7bbc-4fe6-bfe2-3fdf984ac430.png)
 
 ### **"Soil Food Web"**
 
