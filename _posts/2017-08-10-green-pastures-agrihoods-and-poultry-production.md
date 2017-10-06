@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Green Pastures AgriVillages offers laying hens for organic free range eggs in
   poultry production.
-dateModified: '2017-10-04T00:05:57.361Z'
-datePublished: '2017-10-04T00:05:58.143Z'
+dateModified: '2017-10-06T01:41:56.448Z'
+datePublished: '2017-10-06T01:41:57.377Z'
 title: Green Pastures Agrihoods & Poultry Production
 author: []
 publisher: {}
