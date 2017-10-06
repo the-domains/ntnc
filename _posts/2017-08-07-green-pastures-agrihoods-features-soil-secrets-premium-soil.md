@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:37:38.024Z'
-datePublished: '2017-10-06T01:37:38.859Z'
+dateModified: '2017-10-06T01:38:00.487Z'
+datePublished: '2017-10-06T01:38:01.152Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -143,7 +143,7 @@ These benevolent fungi partner with many plants and trees. Their capability invo
 
 Soil Secrets provides the highest quality and concentration of mycorrhizal soil treatments available on the market! EndoMaxima(r), White Lightning(r), and MycoMaxima(r) offer high quality, efficiency, effectiveness, and excellence with professional concentrated products. All products are available in large quantities.
 
-Mycorrhizal fungi form a [mutualistic ][1]relationship with the roots of most plant species. In such a relationship, both the plants themselves and those parts of the roots that host the fungi, are said to be mycorrhizal. Relatively few of the mycorrhizal relationships between plant species and fungi have been examined to date, but 95% of the plant families investigated are predominantly mycorrhizal either in the sense that most of their species associate beneficially with mycorrhizae, or are absolutely dependent on mycorrhizae. The [Orchidaceae ][2]are notorious as a family in which the absence of the correct mycorrhizae is fatal even to germinating seeds
+Mycorrhizal fungi form a [mutualistic ][1]relationship with the roots of most plant species. In such a relationship, both the plants themselves and those parts of the roots that host the fungi, are said to be mycorrhizal. Relatively few of the mycorrhizal relationships between plant species and fungi have been examined to date, but 95% of the plant families investigated are predominantly mycorrhizal either in the sense that most of their species associate beneficially with mycorrhizae, or are absolutely dependent on mycorrhizae. The [Orchidaceae ][2]are notorious as a family in which the absence of the correct mycorrhizae is fatal even to germinating seeds.
 
 **Mycorrhizal Fungal Benefits of Soil Secrets:**
 
