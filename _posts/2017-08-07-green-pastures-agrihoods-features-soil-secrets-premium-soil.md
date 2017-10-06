@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:28:19.320Z'
-datePublished: '2017-10-06T00:28:19.970Z'
+dateModified: '2017-10-06T00:28:45.541Z'
+datePublished: '2017-10-06T00:28:46.152Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -139,9 +139,9 @@ Mycorrhizal fungi form a [mutualistic ][1]relationship with the roots of most pl
 **Mycorrhizal Fungal Benefits of Soil Secrets:**
 
 * _Builds topsoil for sequestering of essential carbon!_
-* _Increases crop yields!_
-* _Improves drought tolerance &amp; sustainability!_
-* _Improves mineral nutrient uptake!_
+* _Increased crop yields!_
+* _Improved drought tolerance; sustainability!_
+* _Improved mineral nutrient uptake!_
 * _Improves food nutrient density!_
 * _Protects roots from damaging nematodes!_
 * _Improves ability to tolerate environmental stressors!_
