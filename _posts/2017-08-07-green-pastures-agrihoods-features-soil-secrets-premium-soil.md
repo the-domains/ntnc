@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:33:40.530Z'
-datePublished: '2017-10-06T00:33:41.554Z'
+dateModified: '2017-10-06T00:36:37.369Z'
+datePublished: '2017-10-06T00:36:38.211Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -152,7 +152,9 @@ Soil Microorganisms are part of the ‘Soil Food Web’ and Protein Crumblies ca
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5713e4055dc89064ca436d38eb5be6fa91c034.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8469a5-f1a1-4df5-838e-bc0b3a87a4e0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f6d2e4-fa08-4067-a203-f08889bfbb0d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f341dc0-b26a-404e-a7ee-580796f356f1.jpg)
+![Earth Nectar®: A super drink for the soil!   There’s no question about it, microbes rule. They run all the major chemical cycles on earth by making enzymes that serve as catalysts to many of the important chemical reactions in the soil. 
+
+Earth Nectar is a broad spectrum of soil based enzymes made by microbes. This product also contains TTP Supreme Compost, whole kelp, humus, and plant extracts, each dissolved into a rich nectar for the soil. Earth Nectar and Earth Ambrosia can be blended together in equal amounts, diluted with water and sprayed onto the soil as a drench. Do Not Use more than 1 gallon of either product per 1000 sq. ft. of application.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f341dc0-b26a-404e-a7ee-580796f356f1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70856763-d95b-4a9a-b19f-71da27c31a1d.jpg)
 
 [0]: https://soilsecrets.com/
