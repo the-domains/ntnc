@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:10:17.225Z'
-datePublished: '2017-10-06T00:10:18.780Z'
+dateModified: '2017-10-06T00:12:33.327Z'
+datePublished: '2017-10-06T00:12:34.478Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -60,12 +60,17 @@ Further, there is an intricate level of bioactivity with transfers of energy, be
 
 Soil Secrets taps into the SFW:
 
-* _Decreases water usage!_
-* _Supports drought resistance!_
-* _Increases plant health_
-* _Increases crop production yields_
-* _Optimized "Soil Food Web"_
-* _Long term decrease in costs_
+_1) Decreases water usage!_
+
+_2)Supports drought resistance!_
+
+_3) Increases plant health_
+
+_4) Increases crop production yields_
+
+_5) Optimized "Soil Food Web" conditioning_
+
+_6) Decreased costs long term _
 ![Soil Secrets LLC develops products which instigate the natural biochemical process required for healthy soils. This process is referred to as the ‘Soil Food Web’. The foundation of the Soil Secrets protocol is based on Mycorrhizal fungi and Humic substances rich in Humic Acids. Soils of urban landscapes, farms and other sites are often deficient or completely lacking in Mycorrhizae and Humic substances. Individually and combined these products provide the primary benefits we are after, which includes better nutrition for the plant, better water management for the landscape or farm and the building of soil (Pedogenesis).
 Interests: Erosion Control, Erosion Control Products, Mine Reclamation, Organic Farming, Organic Agriculture, Farming Soil, Organic Soil.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b171c28-b78c-4de3-97af-9d22292eb451.jpg)
 
