@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T00:13:21.379Z'
-datePublished: '2017-10-06T00:13:21.989Z'
+dateModified: '2017-10-06T00:19:23.616Z'
+datePublished: '2017-10-06T00:19:25.129Z'
 title: Green Pastures AgriVillages features Soil Secrets LLC products!
 author: []
 publisher: {}
@@ -103,7 +103,10 @@ _**Green Pastures AgriVillages**_ appreciates Soil Secrets' ability to authentic
 * _Parks & Recreation_
 * _Land Rehabilitation & Restoration_
 * _Bio-remediation_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40b13eb3d54779fe9bca6727e5f7d8b66e153cb.jpg)
+![White Lightning® is a professional grade ultra-concentrated Mycorrhizal inoculant containing 9 species of beneficial fungi to promote growth.
+
+This professional grade Mycorrhizal inoculant intentionally does not include other microorganisms, nor does it include bio-stimulants, as the intent of this product is to be a mycorrhizal inoculant only of the highest purity available! The viability, purity and high concentration of White Lightning® ensures the highest degree of potential success.
+ White Lightning® contains Glomus intraradices an Arbuscular Mycorrhizae species and 8 species of Ectomycorrhizae. Individual species counts listed on reverse. Glomus intraradices associates with the vast majority of agricultural short term crops! Ectomycorrhizae associate with many conifers (i.e. hemlocks, firs and spruce) and hardwoods (i.e. pecans and oaks). For a complete list of plants and how they associate with, see our web site www.soilsecrets.com under the Details menu bar.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40b13eb3d54779fe9bca6727e5f7d8b66e153cb.jpg)
 
 ### _**Healthy Soil = Healthy Food = Healthy Beings**_
 
