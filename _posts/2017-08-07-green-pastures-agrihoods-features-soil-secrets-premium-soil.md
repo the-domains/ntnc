@@ -4,8 +4,8 @@ description: >-
   Green Pastures AgriVillages has partnered with Soil Secrets LLC to offer a
   ‘premium professional soil treatment inocula’ line of products designed to
   stimulate healthy soils!
-dateModified: '2017-10-06T01:41:56.448Z'
-datePublished: '2017-10-06T01:41:57.387Z'
+dateModified: '2018-01-28T22:41:32.511Z'
+datePublished: '2018-01-28T22:41:33.723Z'
 title: Green Pastures AgriVillages features Soil Secrets!
 author:
   - name: 'DR DENISE ELIZABETH HALL '
@@ -34,14 +34,15 @@ _**Green Pastures AgriVillages**_ has partnered with **Soil Secrets LLC** to off
 There are essential biochemical processes necessary for optimal plant nutrition. This premium product line meets the benchmark of the _USDA National Organic Program_ (NOP), and are available for use on organic certified farms. **Soil Secrets **also participates in the USDA Certified Biobased Program.
 
 Urban gardens and lawns may safely access **Soil Secrets** products for optimal plant and sod health! Rest assured that these plant-derived, organic treatment essentials actually serve Mother Earth, her "soil food web", and any plants or crops grown!
-![Soil Secrets LLC develops products that instigate the natural biochemical process required for healthy soils and proper plant nutrition.
+![Soil Secrets LLC develops products that inoculate natural biochemical process required for healthy soils and proper plant nutrition.
 
-Humates: All Soil Secrets products meet the benchmark of the USDA National Organic Program, and with Certifier approval, can be used on Organic Certified farms. The products are also safe for use on home gardens and lawns, without the fear of damaging the environment or exposing our bodies to hazardous chemicals. Our products are used in the construction and maintenance of landscapes, golf courses, mine reclamation, highway re-vegetation and farming. Benefits of Soil Secrets products include:
+Humates: All products meet the benchmark of the USDA National Organic Program, and with Certifier approval, can be used on Organic Certified farms. The products are also safe for use on home gardens and lawns, without the fear of environmental damage or exposure to hazardous chemicals.The products are used in construction and maintenance of landscapes, golf courses, mine reclamation, highway re-vegetation and farming. Benefits include:
 
 • Improved water drought tolerance of crops, sports  fields, etc.
 • Improvement of water storage in soils.
 • Greener more environmentally sound landscapes.
-• Remediates toxic mine tailings, Total Petroleum  Hydrocarbons in soil, & jump starts healthy mutualistic plant soil biology (Acct#-483 715 for orders).
+• Remediates toxic mine tailings, Total Petroleum Hydrocarbons in soil, & jump starts healthy 
+   mutualistic plant soil biology (Acct#-483 715 for orders).
 
 ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3929f03e2233d781c842f309d98ea09c73807729.png)
 
